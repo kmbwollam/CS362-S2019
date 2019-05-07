@@ -1,0 +1,1359 @@
+Iteration 1: c = c, s = tseet, state = 0
+Iteration 2: c = o, s = reeee, state = 0
+Iteration 3: c = b, s = eetrr, state = 0
+Iteration 4: c = t, s = ttsrs, state = 0
+Iteration 5: c = a, s = rrtst, state = 0
+Iteration 6: c = ], s = eesee, state = 0
+Iteration 7: c = d, s = rseee, state = 0
+Iteration 8: c = i, s = retts, state = 0
+Iteration 9: c = o, s = teeee, state = 0
+Iteration 10: c = o, s = eeest, state = 0
+Iteration 11: c = p, s = etsre, state = 0
+Iteration 12: c = [, s = reest, state = 0
+Iteration 13: c = o, s = stser, state = 1
+Iteration 14: c = h, s = reeet, state = 1
+Iteration 15: c = d, s = rstet, state = 1
+Iteration 16: c = o, s = reser, state = 1
+Iteration 17: c = t, s = teetr, state = 1
+Iteration 18: c = c, s = tseer, state = 1
+Iteration 19: c = x, s = trrer, state = 1
+Iteration 20: c = j, s = eetst, state = 1
+Iteration 21: c = c, s = rrtrr, state = 1
+Iteration 22: c = c, s = rtstr, state = 1
+Iteration 23: c = h, s = ettre, state = 1
+Iteration 24: c = h, s = estee, state = 1
+Iteration 25: c = e, s = rsere, state = 1
+Iteration 26: c = e, s = etsst, state = 1
+Iteration 27: c = g, s = eeeer, state = 1
+Iteration 28: c = g, s = rsrst, state = 1
+Iteration 29: c = (, s = trsre, state = 1
+Iteration 30: c = ), s = rtree, state = 2
+Iteration 31: c = e, s = etsre, state = 2
+Iteration 32: c = v, s = rerrs, state = 2
+Iteration 33: c = y, s = ertes, state = 2
+Iteration 34: c = b, s = eeeee, state = 2
+Iteration 35: c = f, s = eeeee, state = 2
+Iteration 36: c = e, s = stres, state = 2
+Iteration 37: c = t, s = rttst, state = 2
+Iteration 38: c =  , s = tster, state = 2
+Iteration 39: c = }, s = eetss, state = 2
+Iteration 40: c = d, s = ereet, state = 2
+Iteration 41: c = g, s = retrt, state = 2
+Iteration 42: c = m, s = eessr, state = 2
+Iteration 43: c = ), s = esere, state = 2
+Iteration 44: c = e, s = eersr, state = 2
+Iteration 45: c = a, s = reers, state = 2
+Iteration 46: c = a, s = rtsse, state = 2
+Iteration 47: c = (, s = rtret, state = 2
+Iteration 48: c = h, s = tssre, state = 2
+Iteration 49: c = z, s = seert, state = 2
+Iteration 50: c = w, s = serse, state = 2
+Iteration 51: c = i, s = estre, state = 2
+Iteration 52: c = k, s = teste, state = 2
+Iteration 53: c = k, s = tsrte, state = 2
+Iteration 54: c = c, s = estts, state = 2
+Iteration 55: c = k, s = eseee, state = 2
+Iteration 56: c = j, s = reeer, state = 2
+Iteration 57: c = e, s = steee, state = 2
+Iteration 58: c = v, s = ereet, state = 2
+Iteration 59: c = }, s = esers, state = 2
+Iteration 60: c = s, s = srree, state = 2
+Iteration 61: c = }, s = seeer, state = 2
+Iteration 62: c = x, s = sterr, state = 2
+Iteration 63: c = d, s = tetse, state = 2
+Iteration 64: c = }, s = esset, state = 2
+Iteration 65: c = v, s = teete, state = 2
+Iteration 66: c = o, s = eeets, state = 2
+Iteration 67: c = ], s = etsrs, state = 2
+Iteration 68: c = o, s = teter, state = 2
+Iteration 69: c = k, s = eerre, state = 2
+Iteration 70: c = d, s = teess, state = 2
+Iteration 71: c = t, s = srsrr, state = 2
+Iteration 72: c = c, s = reetr, state = 2
+Iteration 73: c = e, s = etrts, state = 2
+Iteration 74: c = v, s = trree, state = 2
+Iteration 75: c = u, s = ettee, state = 2
+Iteration 76: c = s, s = setrr, state = 2
+Iteration 77: c = b, s = esree, state = 2
+Iteration 78: c = w, s = eerer, state = 2
+Iteration 79: c = p, s = esrre, state = 2
+Iteration 80: c = z, s = tetrs, state = 2
+Iteration 81: c = m, s = tsett, state = 2
+Iteration 82: c = q, s = rsert, state = 2
+Iteration 83: c = c, s = eseee, state = 2
+Iteration 84: c = o, s = serts, state = 2
+Iteration 85: c = f, s = eersr, state = 2
+Iteration 86: c = n, s = rssee, state = 2
+Iteration 87: c = e, s = eeree, state = 2
+Iteration 88: c = e, s = etttt, state = 2
+Iteration 89: c = ), s = seerr, state = 2
+Iteration 90: c = (, s = teret, state = 2
+Iteration 91: c =  , s = eerre, state = 2
+Iteration 92: c = c, s = eeeee, state = 2
+Iteration 93: c = ], s = teres, state = 2
+Iteration 94: c = o, s = rtrtt, state = 2
+Iteration 95: c = ], s = eress, state = 2
+Iteration 96: c = [, s = srsse, state = 2
+Iteration 97: c = z, s = rerrt, state = 2
+Iteration 98: c = z, s = stess, state = 2
+Iteration 99: c = v, s = ertet, state = 2
+Iteration 100: c = m, s = eseet, state = 2
+Iteration 101: c = w, s = eeerr, state = 2
+Iteration 102: c = ), s = estee, state = 2
+Iteration 103: c = h, s = erett, state = 2
+Iteration 104: c = {, s = trtre, state = 2
+Iteration 105: c = t, s = eeess, state = 3
+Iteration 106: c = r, s = tsess, state = 3
+Iteration 107: c = a, s = reere, state = 3
+Iteration 108: c = e, s = etetr, state = 3
+Iteration 109: c = u, s = eeees, state = 3
+Iteration 110: c = c, s = erses, state = 3
+Iteration 111: c = {, s = etete, state = 3
+Iteration 112: c = q, s = ttese, state = 3
+Iteration 113: c = r, s = estte, state = 3
+Iteration 114: c = b, s = seese, state = 3
+Iteration 115: c = s, s = errse, state = 3
+Iteration 116: c = o, s = eetts, state = 3
+Iteration 117: c = y, s = sseet, state = 3
+Iteration 118: c = ], s = reett, state = 3
+Iteration 119: c = w, s = eertr, state = 3
+Iteration 120: c = ), s = teeee, state = 3
+Iteration 121: c = m, s = esrse, state = 3
+Iteration 122: c = p, s = trrse, state = 3
+Iteration 123: c = j, s = eeetr, state = 3
+Iteration 124: c = l, s = eeees, state = 3
+Iteration 125: c = }, s = teree, state = 3
+Iteration 126: c = }, s = setse, state = 3
+Iteration 127: c = y, s = rrert, state = 3
+Iteration 128: c = e, s = trerr, state = 3
+Iteration 129: c = v, s = eetse, state = 3
+Iteration 130: c = e, s = errer, state = 3
+Iteration 131: c = f, s = rserr, state = 3
+Iteration 132: c = }, s = ersee, state = 3
+Iteration 133: c = g, s = rssrt, state = 3
+Iteration 134: c = c, s = eetsr, state = 3
+Iteration 135: c = f, s = reese, state = 3
+Iteration 136: c = i, s = seete, state = 3
+Iteration 137: c = r, s = etree, state = 3
+Iteration 138: c = k, s = rrtse, state = 3
+Iteration 139: c = p, s = ttsee, state = 3
+Iteration 140: c = f, s = ersee, state = 3
+Iteration 141: c = u, s = erett, state = 3
+Iteration 142: c = c, s = tetrt, state = 3
+Iteration 143: c = ), s = strse, state = 3
+Iteration 144: c = o, s = etsee, state = 3
+Iteration 145: c = z, s = sests, state = 3
+Iteration 146: c = d, s = teerr, state = 3
+Iteration 147: c = y, s = rtsre, state = 3
+Iteration 148: c = k, s = etsee, state = 3
+Iteration 149: c = g, s = etsrt, state = 3
+Iteration 150: c = s, s = seess, state = 3
+Iteration 151: c = h, s = teete, state = 3
+Iteration 152: c = (, s = ttree, state = 3
+Iteration 153: c = n, s = steee, state = 3
+Iteration 154: c = ), s = ttstr, state = 3
+Iteration 155: c = }, s = ettse, state = 3
+Iteration 156: c = x, s = teers, state = 3
+Iteration 157: c = c, s = eerts, state = 3
+Iteration 158: c = ), s = rterr, state = 3
+Iteration 159: c = e, s = essre, state = 3
+Iteration 160: c = t, s = ettre, state = 3
+Iteration 161: c = y, s = eesee, state = 3
+Iteration 162: c = w, s = rtrer, state = 3
+Iteration 163: c = ], s = ereer, state = 3
+Iteration 164: c = [, s = terte, state = 3
+Iteration 165: c = i, s = eette, state = 3
+Iteration 166: c = z, s = teeet, state = 3
+Iteration 167: c = ), s = eeret, state = 3
+Iteration 168: c = u, s = resee, state = 3
+Iteration 169: c = r, s = terts, state = 3
+Iteration 170: c = q, s = ssees, state = 3
+Iteration 171: c = ), s = eestt, state = 3
+Iteration 172: c = ], s = eeeee, state = 3
+Iteration 173: c = h, s = eetet, state = 3
+Iteration 174: c = z, s = eeert, state = 3
+Iteration 175: c = ), s = eesss, state = 3
+Iteration 176: c = (, s = teser, state = 3
+Iteration 177: c = s, s = resee, state = 3
+Iteration 178: c = ), s = stese, state = 3
+Iteration 179: c = s, s = reeee, state = 3
+Iteration 180: c = v, s = etert, state = 3
+Iteration 181: c = z, s = setee, state = 3
+Iteration 182: c = {, s = rettt, state = 3
+Iteration 183: c = r, s = ttsre, state = 3
+Iteration 184: c = [, s = eeeee, state = 3
+Iteration 185: c = a, s = etert, state = 3
+Iteration 186: c = v, s = restr, state = 3
+Iteration 187: c = l, s = rrses, state = 3
+Iteration 188: c = ], s = tesee, state = 3
+Iteration 189: c = e, s = eeres, state = 3
+Iteration 190: c = a, s = erstr, state = 3
+Iteration 191: c = o, s = eesrs, state = 3
+Iteration 192: c = k, s = trree, state = 3
+Iteration 193: c = n, s = trste, state = 3
+Iteration 194: c = u, s = eettt, state = 3
+Iteration 195: c = l, s = tetsr, state = 3
+Iteration 196: c = u, s = etsrt, state = 3
+Iteration 197: c = ), s = rrsre, state = 3
+Iteration 198: c = ], s = eeeet, state = 3
+Iteration 199: c = f, s = eseee, state = 3
+Iteration 200: c = e, s = eeesr, state = 3
+Iteration 201: c = y, s = teeee, state = 3
+Iteration 202: c = n, s = rrrts, state = 3
+Iteration 203: c = g, s = reees, state = 3
+Iteration 204: c = f, s = srree, state = 3
+Iteration 205: c = v, s = estst, state = 3
+Iteration 206: c = u, s = ertet, state = 3
+Iteration 207: c = w, s = etret, state = 3
+Iteration 208: c = x, s = teees, state = 3
+Iteration 209: c = s, s = rterr, state = 3
+Iteration 210: c = {, s = teeer, state = 3
+Iteration 211: c = s, s = strer, state = 3
+Iteration 212: c = s, s = eeeee, state = 3
+Iteration 213: c = a, s = eeeee, state = 3
+Iteration 214: c = i, s = teest, state = 3
+Iteration 215: c = }, s = retee, state = 3
+Iteration 216: c = t, s = eseee, state = 3
+Iteration 217: c = }, s = etsts, state = 3
+Iteration 218: c = z, s = erees, state = 3
+Iteration 219: c = k, s = reeer, state = 3
+Iteration 220: c = g, s = tssre, state = 3
+Iteration 221: c = j, s = serer, state = 3
+Iteration 222: c = c, s = seset, state = 3
+Iteration 223: c = }, s = esser, state = 3
+Iteration 224: c = j, s = sssrs, state = 3
+Iteration 225: c = [, s = teset, state = 3
+Iteration 226: c = t, s = eeees, state = 3
+Iteration 227: c = b, s = tetet, state = 3
+Iteration 228: c = p, s = rrsee, state = 3
+Iteration 229: c = r, s = seesr, state = 3
+Iteration 230: c = y, s = ertre, state = 3
+Iteration 231: c = m, s = rtees, state = 3
+Iteration 232: c = c, s = teees, state = 3
+Iteration 233: c = l, s = esesr, state = 3
+Iteration 234: c = r, s = erets, state = 3
+Iteration 235: c = d, s = ersre, state = 3
+Iteration 236: c = m, s = eesse, state = 3
+Iteration 237: c = ), s = srrer, state = 3
+Iteration 238: c = }, s = eetes, state = 3
+Iteration 239: c = r, s = seset, state = 3
+Iteration 240: c = u, s = rrete, state = 3
+Iteration 241: c = }, s = settr, state = 3
+Iteration 242: c = t, s = rrsre, state = 3
+Iteration 243: c = ], s = sests, state = 3
+Iteration 244: c = e, s = ettrs, state = 3
+Iteration 245: c = i, s = ereet, state = 3
+Iteration 246: c = q, s = eetss, state = 3
+Iteration 247: c = ], s = reste, state = 3
+Iteration 248: c = k, s = teeet, state = 3
+Iteration 249: c = z, s = rstet, state = 3
+Iteration 250: c = g, s = tstse, state = 3
+Iteration 251: c = f, s = reste, state = 3
+Iteration 252: c = g, s = eetrt, state = 3
+Iteration 253: c = z, s = reett, state = 3
+Iteration 254: c = ), s = etees, state = 3
+Iteration 255: c = c, s = sesee, state = 3
+Iteration 256: c = a, s = eeesr, state = 3
+Iteration 257: c = (, s = teset, state = 3
+Iteration 258: c = z, s = reses, state = 3
+Iteration 259: c = r, s = stsrs, state = 3
+Iteration 260: c = }, s = reett, state = 3
+Iteration 261: c = b, s = tttrs, state = 3
+Iteration 262: c = z, s = tetee, state = 3
+Iteration 263: c = (, s = tsses, state = 3
+Iteration 264: c = q, s = tsres, state = 3
+Iteration 265: c = (, s = rerrt, state = 3
+Iteration 266: c = {, s = eetse, state = 3
+Iteration 267: c = c, s = etees, state = 3
+Iteration 268: c = w, s = esesr, state = 3
+Iteration 269: c = t, s = ssets, state = 3
+Iteration 270: c = l, s = ttrtt, state = 3
+Iteration 271: c = l, s = eeess, state = 3
+Iteration 272: c = l, s = reeee, state = 3
+Iteration 273: c = d, s = sertt, state = 3
+Iteration 274: c = v, s = setrs, state = 3
+Iteration 275: c = n, s = seere, state = 3
+Iteration 276: c = l, s = reere, state = 3
+Iteration 277: c = ], s = erere, state = 3
+Iteration 278: c = g, s = ereee, state = 3
+Iteration 279: c = w, s = rrrrr, state = 3
+Iteration 280: c = s, s = tresr, state = 3
+Iteration 281: c = x, s = rstet, state = 3
+Iteration 282: c = u, s = tetse, state = 3
+Iteration 283: c = q, s = setet, state = 3
+Iteration 284: c = l, s = rtere, state = 3
+Iteration 285: c = z, s = eretr, state = 3
+Iteration 286: c = y, s = trset, state = 3
+Iteration 287: c = y, s = srtes, state = 3
+Iteration 288: c = d, s = rtrss, state = 3
+Iteration 289: c = v, s = rtert, state = 3
+Iteration 290: c = v, s = eeses, state = 3
+Iteration 291: c = i, s = essrs, state = 3
+Iteration 292: c = h, s = trere, state = 3
+Iteration 293: c = e, s = stsse, state = 3
+Iteration 294: c = (, s = eeetr, state = 3
+Iteration 295: c = f, s = eters, state = 3
+Iteration 296: c = k, s = tttse, state = 3
+Iteration 297: c = t, s = sster, state = 3
+Iteration 298: c = w, s = esere, state = 3
+Iteration 299: c = f, s = sstee, state = 3
+Iteration 300: c = i, s = trers, state = 3
+Iteration 301: c = g, s = sstse, state = 3
+Iteration 302: c = h, s = errrr, state = 3
+Iteration 303: c = m, s = tetet, state = 3
+Iteration 304: c = [, s = seett, state = 3
+Iteration 305: c = n, s = ertss, state = 3
+Iteration 306: c = o, s = srrss, state = 3
+Iteration 307: c = [, s = rrtrr, state = 3
+Iteration 308: c = k, s = etrss, state = 3
+Iteration 309: c = c, s = estte, state = 3
+Iteration 310: c = h, s = etere, state = 3
+Iteration 311: c = f, s = ertet, state = 3
+Iteration 312: c = v, s = teert, state = 3
+Iteration 313: c = d, s = ssese, state = 3
+Iteration 314: c = b, s = esete, state = 3
+Iteration 315: c = {, s = rtste, state = 3
+Iteration 316: c = ], s = eests, state = 3
+Iteration 317: c = {, s = ttrtt, state = 3
+Iteration 318: c = l, s = teesr, state = 3
+Iteration 319: c = y, s = erser, state = 3
+Iteration 320: c = q, s = tseee, state = 3
+Iteration 321: c = o, s = reers, state = 3
+Iteration 322: c = {, s = teses, state = 3
+Iteration 323: c = n, s = eesee, state = 3
+Iteration 324: c = s, s = rtrse, state = 3
+Iteration 325: c = b, s = tttre, state = 3
+Iteration 326: c = j, s = teeer, state = 3
+Iteration 327: c = w, s = etsre, state = 3
+Iteration 328: c = t, s = eerre, state = 3
+Iteration 329: c = n, s = rsere, state = 3
+Iteration 330: c = s, s = sesee, state = 3
+Iteration 331: c = v, s = eeeee, state = 3
+Iteration 332: c = o, s = teeee, state = 3
+Iteration 333: c = k, s = reees, state = 3
+Iteration 334: c = o, s = tsest, state = 3
+Iteration 335: c = v, s = reere, state = 3
+Iteration 336: c = q, s = srsre, state = 3
+Iteration 337: c = v, s = ttets, state = 3
+Iteration 338: c = m, s = srere, state = 3
+Iteration 339: c = c, s = tstes, state = 3
+Iteration 340: c = u, s = etett, state = 3
+Iteration 341: c = m, s = rttrt, state = 3
+Iteration 342: c = g, s = seres, state = 3
+Iteration 343: c = (, s = reree, state = 3
+Iteration 344: c = o, s = restt, state = 3
+Iteration 345: c = b, s = tsese, state = 3
+Iteration 346: c = r, s = teerr, state = 3
+Iteration 347: c = f, s = seest, state = 3
+Iteration 348: c = [, s = sesss, state = 3
+Iteration 349: c = q, s = ssrrs, state = 3
+Iteration 350: c = b, s = eeete, state = 3
+Iteration 351: c = y, s = tsess, state = 3
+Iteration 352: c = {, s = rtsts, state = 3
+Iteration 353: c = g, s = retst, state = 3
+Iteration 354: c = h, s = eeeee, state = 3
+Iteration 355: c = s, s = tsrse, state = 3
+Iteration 356: c = r, s = rtrtt, state = 3
+Iteration 357: c = y, s = etere, state = 3
+Iteration 358: c = n, s = resee, state = 3
+Iteration 359: c = ], s = rteee, state = 3
+Iteration 360: c = ], s = rstrs, state = 3
+Iteration 361: c = y, s = ttter, state = 3
+Iteration 362: c = k, s = eeter, state = 3
+Iteration 363: c = }, s = errrt, state = 3
+Iteration 364: c = (, s = eters, state = 3
+Iteration 365: c = s, s = stret, state = 3
+Iteration 366: c = r, s = seter, state = 3
+Iteration 367: c = n, s = eeeee, state = 3
+Iteration 368: c = t, s = erees, state = 3
+Iteration 369: c = h, s = seere, state = 3
+Iteration 370: c =  , s = esees, state = 3
+Iteration 371: c =  , s = ettsr, state = 4
+Iteration 372: c = z, s = eetee, state = 4
+Iteration 373: c = ), s = seers, state = 4
+Iteration 374: c = v, s = ttese, state = 4
+Iteration 375: c = q, s = ttrrt, state = 4
+Iteration 376: c =  , s = rstet, state = 4
+Iteration 377: c = p, s = setss, state = 4
+Iteration 378: c = l, s = reeee, state = 4
+Iteration 379: c = u, s = essst, state = 4
+Iteration 380: c = x, s = sreer, state = 4
+Iteration 381: c = q, s = seret, state = 4
+Iteration 382: c = w, s = eteee, state = 4
+Iteration 383: c = w, s = eetse, state = 4
+Iteration 384: c = ], s = eerrr, state = 4
+Iteration 385: c = ], s = eeste, state = 4
+Iteration 386: c = m, s = sstee, state = 4
+Iteration 387: c = ), s = etres, state = 4
+Iteration 388: c = l, s = eeese, state = 4
+Iteration 389: c = w, s = strse, state = 4
+Iteration 390: c = c, s = rtese, state = 4
+Iteration 391: c = x, s = teeee, state = 4
+Iteration 392: c = z, s = teett, state = 4
+Iteration 393: c = i, s = trtst, state = 4
+Iteration 394: c = t, s = eeete, state = 4
+Iteration 395: c = a, s = teerr, state = 4
+Iteration 396: c = o, s = etstr, state = 5
+Iteration 397: c = n, s = ettse, state = 5
+Iteration 398: c = f, s = sreer, state = 5
+Iteration 399: c = q, s = eetet, state = 5
+Iteration 400: c = (, s = eeree, state = 5
+Iteration 401: c = l, s = etsst, state = 5
+Iteration 402: c = o, s = estrt, state = 5
+Iteration 403: c = n, s = eessr, state = 5
+Iteration 404: c = m, s = trert, state = 5
+Iteration 405: c = q, s = rterr, state = 5
+Iteration 406: c = ], s = eeees, state = 5
+Iteration 407: c = s, s = eette, state = 5
+Iteration 408: c = c, s = ttese, state = 5
+Iteration 409: c = q, s = etetr, state = 5
+Iteration 410: c = o, s = srtes, state = 5
+Iteration 411: c = t, s = setrt, state = 5
+Iteration 412: c = w, s = sttet, state = 5
+Iteration 413: c = l, s = eeers, state = 5
+Iteration 414: c =  , s = rerer, state = 5
+Iteration 415: c = o, s = esssr, state = 5
+Iteration 416: c = (, s = ertsr, state = 5
+Iteration 417: c = u, s = erese, state = 5
+Iteration 418: c = o, s = srssr, state = 5
+Iteration 419: c = v, s = eseet, state = 5
+Iteration 420: c = [, s = rsesr, state = 5
+Iteration 421: c = s, s = eesre, state = 5
+Iteration 422: c = k, s = etree, state = 5
+Iteration 423: c = (, s = rrerr, state = 5
+Iteration 424: c = u, s = seere, state = 5
+Iteration 425: c = {, s = reerr, state = 5
+Iteration 426: c = h, s = erter, state = 5
+Iteration 427: c = {, s = eeert, state = 5
+Iteration 428: c = m, s = trtsr, state = 5
+Iteration 429: c = c, s = ettet, state = 5
+Iteration 430: c = ), s = serrs, state = 5
+Iteration 431: c = {, s = trsrr, state = 5
+Iteration 432: c = {, s = teese, state = 5
+Iteration 433: c = w, s = rrrer, state = 5
+Iteration 434: c = i, s = seeee, state = 5
+Iteration 435: c = q, s = rrerr, state = 5
+Iteration 436: c = h, s = serre, state = 5
+Iteration 437: c = i, s = rrret, state = 5
+Iteration 438: c = b, s = estte, state = 5
+Iteration 439: c = r, s = eeere, state = 5
+Iteration 440: c = u, s = tstrs, state = 5
+Iteration 441: c = v, s = rsest, state = 5
+Iteration 442: c = c, s = stsss, state = 5
+Iteration 443: c = n, s = ereee, state = 5
+Iteration 444: c = y, s = erter, state = 5
+Iteration 445: c = z, s = seest, state = 5
+Iteration 446: c = }, s = tetse, state = 5
+Iteration 447: c = w, s = teets, state = 5
+Iteration 448: c = i, s = eeete, state = 5
+Iteration 449: c = x, s = rssrr, state = 5
+Iteration 450: c = s, s = erett, state = 6
+Iteration 451: c = [, s = eeers, state = 6
+Iteration 452: c = p, s = rttse, state = 6
+Iteration 453: c = n, s = serer, state = 6
+Iteration 454: c = g, s = errss, state = 6
+Iteration 455: c = w, s = seert, state = 6
+Iteration 456: c = w, s = srssr, state = 6
+Iteration 457: c = c, s = srret, state = 6
+Iteration 458: c = g, s = rtert, state = 6
+Iteration 459: c = q, s = esetr, state = 6
+Iteration 460: c = ), s = ttstt, state = 6
+Iteration 461: c = {, s = eeerr, state = 6
+Iteration 462: c =  , s = etete, state = 6
+Iteration 463: c = n, s = eeeet, state = 6
+Iteration 464: c = w, s = esrte, state = 6
+Iteration 465: c = r, s = esese, state = 6
+Iteration 466: c = a, s = seree, state = 6
+Iteration 467: c = ), s = ertte, state = 6
+Iteration 468: c = q, s = ssers, state = 6
+Iteration 469: c = m, s = eettr, state = 6
+Iteration 470: c = m, s = ertes, state = 6
+Iteration 471: c = n, s = rrtee, state = 6
+Iteration 472: c = d, s = eeese, state = 6
+Iteration 473: c =  , s = rreer, state = 6
+Iteration 474: c = }, s = ettte, state = 6
+Iteration 475: c = r, s = testt, state = 7
+Iteration 476: c = ], s = sseer, state = 7
+Iteration 477: c = ), s = teesr, state = 7
+Iteration 478: c = s, s = esete, state = 8
+Iteration 479: c = r, s = sesee, state = 8
+Iteration 480: c = d, s = eseee, state = 8
+Iteration 481: c = [, s = srsss, state = 8
+Iteration 482: c = [, s = teste, state = 8
+Iteration 483: c = m, s = stsrr, state = 8
+Iteration 484: c = g, s = esees, state = 8
+Iteration 485: c = o, s = sttet, state = 8
+Iteration 486: c = w, s = eeeee, state = 8
+Iteration 487: c = t, s = errse, state = 8
+Iteration 488: c = m, s = srerr, state = 8
+Iteration 489: c = i, s = eeeee, state = 8
+Iteration 490: c = l, s = eettt, state = 8
+Iteration 491: c = b, s = ertee, state = 8
+Iteration 492: c = j, s = reser, state = 8
+Iteration 493: c = o, s = tersr, state = 8
+Iteration 494: c = w, s = ereee, state = 8
+Iteration 495: c = y, s = eerer, state = 8
+Iteration 496: c = t, s = tttes, state = 8
+Iteration 497: c = q, s = teeee, state = 8
+Iteration 498: c = l, s = trtte, state = 8
+Iteration 499: c = t, s = seees, state = 8
+Iteration 500: c = q, s = srere, state = 8
+Iteration 501: c = q, s = strer, state = 8
+Iteration 502: c = y, s = teett, state = 8
+Iteration 503: c = ), s = eettr, state = 8
+Iteration 504: c = c, s = rsser, state = 8
+Iteration 505: c = m, s = etttt, state = 8
+Iteration 506: c = x, s = setrr, state = 8
+Iteration 507: c = ], s = etree, state = 8
+Iteration 508: c = g, s = strer, state = 9
+Iteration 509: c = w, s = reste, state = 9
+Iteration 510: c = q, s = etesr, state = 9
+Iteration 511: c = q, s = eeese, state = 9
+Iteration 512: c = p, s = eesee, state = 9
+Iteration 513: c = h, s = rrtse, state = 9
+Iteration 514: c = w, s = trser, state = 9
+Iteration 515: c = f, s = serrs, state = 9
+Iteration 516: c = g, s = sette, state = 9
+Iteration 517: c = k, s = tttsr, state = 9
+Iteration 518: c = e, s = srset, state = 9
+Iteration 519: c = d, s = seese, state = 9
+Iteration 520: c = n, s = eeeer, state = 9
+Iteration 521: c = m, s = teret, state = 9
+Iteration 522: c = b, s = teees, state = 9
+Iteration 523: c = b, s = rtrss, state = 9
+Iteration 524: c = s, s = rstet, state = 9
+Iteration 525: c = p, s = rreee, state = 9
+Iteration 526: c = x, s = seese, state = 9
+Iteration 527: c = u, s = ereee, state = 9
+Iteration 528: c = q, s = eesee, state = 9
+Iteration 529: c = y, s = sreee, state = 9
+Iteration 530: c = d, s = erter, state = 9
+Iteration 531: c = j, s = eserr, state = 9
+Iteration 532: c = ], s = teese, state = 9
+Iteration 533: c = x, s = esrrr, state = 9
+Iteration 534: c = v, s = tttes, state = 9
+Iteration 535: c = r, s = srrse, state = 9
+Iteration 536: c = k, s = seere, state = 9
+Iteration 537: c = y, s = rertr, state = 9
+Iteration 538: c = t, s = rerre, state = 9
+Iteration 539: c = c, s = rreer, state = 9
+Iteration 540: c = (, s = esset, state = 9
+Iteration 541: c = h, s = reere, state = 9
+Iteration 542: c = q, s = strsr, state = 9
+Iteration 543: c = c, s = rresr, state = 9
+Iteration 544: c = p, s = trest, state = 9
+Iteration 545: c = r, s = tsees, state = 9
+Iteration 546: c = o, s = stees, state = 9
+Iteration 547: c = {, s = rtrst, state = 9
+Iteration 548: c = [, s = ttrrt, state = 9
+Iteration 549: c = g, s = serre, state = 9
+Iteration 550: c = a, s = ttesr, state = 9
+Iteration 551: c = }, s = estsr, state = 9
+Iteration 552: c = u, s = trets, state = 9
+Iteration 553: c = h, s = rtese, state = 9
+Iteration 554: c = h, s = rrese, state = 9
+Iteration 555: c = r, s = esste, state = 9
+Iteration 556: c = x, s = tsser, state = 9
+Iteration 557: c = n, s = strrr, state = 9
+Iteration 558: c = l, s = ssrsr, state = 9
+Iteration 559: c = o, s = rsset, state = 9
+Iteration 560: c = o, s = ersre, state = 9
+Iteration 561: c = p, s = eresr, state = 9
+Iteration 562: c = p, s = etset, state = 9
+Iteration 563: c = p, s = rerre, state = 9
+Iteration 564: c = l, s = setre, state = 9
+Iteration 565: c = v, s = rtret, state = 9
+Iteration 566: c = b, s = etete, state = 9
+Iteration 567: c = p, s = rrrte, state = 9
+Iteration 568: c = [, s = tesee, state = 9
+Iteration 569: c = i, s = eeese, state = 9
+Iteration 570: c = f, s = ststs, state = 9
+Iteration 571: c = ], s = sresr, state = 9
+Iteration 572: c = o, s = ssett, state = 9
+Iteration 573: c = ], s = eetet, state = 9
+Iteration 574: c = }, s = ettee, state = 9
+Iteration 575: c =  , s = treee, state = 9
+Iteration 576: c = c, s = tersr, state = 9
+Iteration 577: c = g, s = etttt, state = 9
+Iteration 578: c = p, s = rsers, state = 9
+Iteration 579: c = n, s = rrete, state = 9
+Iteration 580: c = (, s = tsetr, state = 9
+Iteration 581: c = h, s = ttttt, state = 9
+Iteration 582: c = h, s = erese, state = 9
+Iteration 583: c = d, s = estet, state = 9
+Iteration 584: c = m, s = eteee, state = 9
+Iteration 585: c = e, s = rsree, state = 9
+Iteration 586: c = c, s = rsete, state = 9
+Iteration 587: c = b, s = etsss, state = 9
+Iteration 588: c = r, s = trrre, state = 9
+Iteration 589: c = x, s = eerer, state = 9
+Iteration 590: c = q, s = tsres, state = 9
+Iteration 591: c = q, s = esets, state = 9
+Iteration 592: c = l, s = srtes, state = 9
+Iteration 593: c = l, s = teete, state = 9
+Iteration 594: c = b, s = reret, state = 9
+Iteration 595: c = a, s = tetst, state = 9
+Iteration 596: c = d, s = esete, state = 9
+Iteration 597: c = l, s = erret, state = 9
+Iteration 598: c = w, s = eesrr, state = 9
+Iteration 599: c = {, s = trrte, state = 9
+Iteration 600: c = o, s = teerr, state = 9
+Iteration 601: c = p, s = tetet, state = 9
+Iteration 602: c = e, s = eestt, state = 9
+Iteration 603: c = z, s = esres, state = 9
+Iteration 604: c = g, s = resee, state = 9
+Iteration 605: c = b, s = tttet, state = 9
+Iteration 606: c = o, s = eeert, state = 9
+Iteration 607: c = {, s = rsete, state = 9
+Iteration 608: c = q, s = esser, state = 9
+Iteration 609: c = {, s = rrrsr, state = 9
+Iteration 610: c = j, s = ertte, state = 9
+Iteration 611: c = k, s = seeee, state = 9
+Iteration 612: c = ], s = eretr, state = 9
+Iteration 613: c = k, s = eeere, state = 9
+Iteration 614: c = v, s = eeeee, state = 9
+Iteration 615: c = d, s = etese, state = 9
+Iteration 616: c = i, s = reree, state = 9
+Iteration 617: c = [, s = sstst, state = 9
+Iteration 618: c = t, s = estts, state = 9
+Iteration 619: c = s, s = teers, state = 9
+Iteration 620: c = (, s = trstr, state = 9
+Iteration 621: c = s, s = ereee, state = 9
+Iteration 622: c = j, s = ersst, state = 9
+Iteration 623: c = y, s = errtt, state = 9
+Iteration 624: c = }, s = eeree, state = 9
+Iteration 625: c = g, s = rsrte, state = 9
+Iteration 626: c = o, s = tssrr, state = 9
+Iteration 627: c = ], s = rtese, state = 9
+Iteration 628: c = t, s = rsrre, state = 9
+Iteration 629: c = ), s = srste, state = 9
+Iteration 630: c = [, s = eeree, state = 9
+Iteration 631: c = x, s = eserr, state = 9
+Iteration 632: c = p, s = rrset, state = 9
+Iteration 633: c = ), s = teeee, state = 9
+Iteration 634: c = w, s = esere, state = 9
+Iteration 635: c = v, s = rsesr, state = 9
+Iteration 636: c = e, s = rrees, state = 9
+Iteration 637: c = t, s = treee, state = 9
+Iteration 638: c = l, s = ttrte, state = 9
+Iteration 639: c = t, s = eerse, state = 9
+Iteration 640: c = h, s = srees, state = 9
+Iteration 641: c = j, s = tsere, state = 9
+Iteration 642: c = y, s = esser, state = 9
+Iteration 643: c = d, s = ssste, state = 9
+Iteration 644: c = v, s = tsets, state = 9
+Iteration 645: c = h, s = reeet, state = 9
+Iteration 646: c = r, s = rtree, state = 9
+Iteration 647: c = [, s = esrer, state = 9
+Iteration 648: c = e, s = ertee, state = 9
+Iteration 649: c = t, s = eerrr, state = 9
+Iteration 650: c = m, s = esess, state = 9
+Iteration 651: c = k, s = tette, state = 9
+Iteration 652: c = ), s = ttrtr, state = 9
+Iteration 653: c = q, s = tetes, state = 9
+Iteration 654: c = b, s = eesse, state = 9
+Iteration 655: c = f, s = eessr, state = 9
+Iteration 656: c = l, s = erttt, state = 9
+Iteration 657: c = d, s = ttser, state = 9
+Iteration 658: c = ), s = eeers, state = 9
+Iteration 659: c = (, s = eeess, state = 9
+Iteration 660: c = {, s = seeee, state = 9
+Iteration 661: c = i, s = sertr, state = 9
+Iteration 662: c =  , s = seeee, state = 9
+Iteration 663: c = w, s = etstt, state = 9
+Iteration 664: c = r, s = ertrs, state = 9
+Iteration 665: c = y, s = eeret, state = 9
+Iteration 666: c = d, s = ssete, state = 9
+Iteration 667: c = k, s = esste, state = 9
+Iteration 668: c = f, s = reess, state = 9
+Iteration 669: c = r, s = etese, state = 9
+Iteration 670: c = z, s = etsee, state = 9
+Iteration 671: c = ), s = ssree, state = 9
+Iteration 672: c = q, s = ersrt, state = 9
+Iteration 673: c = s, s = eetee, state = 9
+Iteration 674: c = h, s = terse, state = 9
+Iteration 675: c = f, s = rsste, state = 9
+Iteration 676: c = {, s = setre, state = 9
+Iteration 677: c = v, s = reeee, state = 9
+Iteration 678: c = m, s = eettr, state = 9
+Iteration 679: c = e, s = eteet, state = 9
+Iteration 680: c = u, s = etete, state = 9
+Iteration 681: c = t, s = erses, state = 9
+Iteration 682: c = r, s = seere, state = 9
+Iteration 683: c = a, s = seser, state = 9
+Iteration 684: c = a, s = eettt, state = 9
+Iteration 685: c = {, s = eettr, state = 9
+Iteration 686: c = p, s = tetes, state = 9
+Iteration 687: c = o, s = teste, state = 9
+Iteration 688: c = t, s = eeeet, state = 9
+Iteration 689: c = (, s = rreee, state = 9
+Iteration 690: c = y, s = tttee, state = 9
+Iteration 691: c = e, s = srtte, state = 9
+Iteration 692: c = e, s = esrrs, state = 9
+Iteration 693: c = f, s = ssrsr, state = 9
+Iteration 694: c = j, s = seset, state = 9
+Iteration 695: c = n, s = teree, state = 9
+Iteration 696: c = z, s = teeer, state = 9
+Iteration 697: c =  , s = seeer, state = 9
+Iteration 698: c = y, s = stsse, state = 9
+Iteration 699: c = i, s = eeert, state = 9
+Iteration 700: c = ], s = trsee, state = 9
+Iteration 701: c = x, s = ttssr, state = 9
+Iteration 702: c = b, s = rttet, state = 9
+Iteration 703: c = o, s = eeres, state = 9
+Iteration 704: c = p, s = eeeee, state = 9
+Iteration 705: c = z, s = ssese, state = 9
+Iteration 706: c = y, s = esrse, state = 9
+Iteration 707: c = p, s = esssr, state = 9
+Iteration 708: c = i, s = esser, state = 9
+Iteration 709: c = j, s = eesst, state = 9
+Iteration 710: c = v, s = reete, state = 9
+Iteration 711: c = y, s = eeeer, state = 9
+Iteration 712: c = e, s = eesrr, state = 9
+Iteration 713: c = u, s = ererr, state = 9
+Iteration 714: c = r, s = settt, state = 9
+Iteration 715: c = q, s = rtstr, state = 9
+Iteration 716: c = b, s = ereee, state = 9
+Iteration 717: c = g, s = etsrt, state = 9
+Iteration 718: c = ], s = rsrer, state = 9
+Iteration 719: c = {, s = sssee, state = 9
+Iteration 720: c = c, s = ttser, state = 9
+Iteration 721: c = j, s = rrree, state = 9
+Iteration 722: c = s, s = srrtr, state = 9
+Iteration 723: c = b, s = ereee, state = 9
+Iteration 724: c =  , s = teeee, state = 9
+Iteration 725: c = t, s = trsee, state = 9
+Iteration 726: c = i, s = eetst, state = 9
+Iteration 727: c =  , s = reees, state = 9
+Iteration 728: c = }, s = teest, state = 9
+Iteration 729: c = s, s = ersee, state = 9
+Iteration 730: c = r, s = ssett, state = 9
+Iteration 731: c = r, s = tssee, state = 9
+Iteration 732: c = q, s = esrts, state = 9
+Iteration 733: c = s, s = eetee, state = 9
+Iteration 734: c = s, s = etere, state = 9
+Iteration 735: c = j, s = rstee, state = 9
+Iteration 736: c = y, s = rssse, state = 9
+Iteration 737: c = b, s = etest, state = 9
+Iteration 738: c = g, s = steer, state = 9
+Iteration 739: c = w, s = ertes, state = 9
+Iteration 740: c = t, s = rsete, state = 9
+Iteration 741: c = t, s = teses, state = 9
+Iteration 742: c = ], s = seere, state = 9
+Iteration 743: c = p, s = rster, state = 9
+Iteration 744: c = w, s = rreet, state = 9
+Iteration 745: c = w, s = rteee, state = 9
+Iteration 746: c = (, s = rtess, state = 9
+Iteration 747: c = s, s = trtrs, state = 9
+Iteration 748: c = t, s = erete, state = 9
+Iteration 749: c = {, s = eettr, state = 9
+Iteration 750: c = y, s = essee, state = 9
+Iteration 751: c = ], s = seerr, state = 9
+Iteration 752: c = o, s = eesre, state = 9
+Iteration 753: c = u, s = tesee, state = 9
+Iteration 754: c = l, s = etere, state = 9
+Iteration 755: c = e, s = eeest, state = 9
+Iteration 756: c = d, s = eeste, state = 9
+Iteration 757: c = a, s = rtest, state = 9
+Iteration 758: c = z, s = trrer, state = 9
+Iteration 759: c = n, s = essrs, state = 9
+Iteration 760: c = n, s = reeer, state = 9
+Iteration 761: c = v, s = ssete, state = 9
+Iteration 762: c = k, s = eeree, state = 9
+Iteration 763: c = ], s = srsst, state = 9
+Iteration 764: c = j, s = rstst, state = 9
+Iteration 765: c = }, s = ertse, state = 9
+Iteration 766: c = z, s = reeet, state = 9
+Iteration 767: c = k, s = seree, state = 9
+Iteration 768: c = v, s = trees, state = 9
+Iteration 769: c = k, s = estse, state = 9
+Iteration 770: c = a, s = ertss, state = 9
+Iteration 771: c = z, s = tstte, state = 9
+Iteration 772: c = z, s = eette, state = 9
+Iteration 773: c = z, s = ssree, state = 9
+Iteration 774: c = t, s = rtsre, state = 9
+Iteration 775: c = z, s = etrse, state = 9
+Iteration 776: c = h, s = esses, state = 9
+Iteration 777: c = n, s = teert, state = 9
+Iteration 778: c = v, s = tsets, state = 9
+Iteration 779: c = [, s = trses, state = 9
+Iteration 780: c = k, s = reser, state = 9
+Iteration 781: c = w, s = eeere, state = 9
+Iteration 782: c = x, s = esstt, state = 9
+Iteration 783: c = a, s = rtttr, state = 9
+Iteration 784: c = s, s = stert, state = 9
+Iteration 785: c = q, s = errse, state = 9
+Iteration 786: c = p, s = stest, state = 9
+Iteration 787: c = ], s = trtse, state = 9
+Iteration 788: c = m, s = tsere, state = 9
+Iteration 789: c = q, s = rreer, state = 9
+Iteration 790: c = l, s = erets, state = 9
+Iteration 791: c = [, s = esstt, state = 9
+Iteration 792: c = q, s = eeesr, state = 9
+Iteration 793: c = l, s = sttte, state = 9
+Iteration 794: c = t, s = eetes, state = 9
+Iteration 795: c = c, s = eeses, state = 9
+Iteration 796: c = b, s = srter, state = 9
+Iteration 797: c = (, s = seesr, state = 9
+Iteration 798: c = o, s = ttser, state = 9
+Iteration 799: c = x, s = setss, state = 9
+Iteration 800: c = e, s = teeer, state = 9
+Iteration 801: c = (, s = etete, state = 9
+Iteration 802: c = r, s = rrees, state = 9
+Iteration 803: c = {, s = tstes, state = 9
+Iteration 804: c = ), s = trres, state = 9
+Iteration 805: c = i, s = eeert, state = 9
+Iteration 806: c = ], s = rrsee, state = 9
+Iteration 807: c = j, s = terss, state = 9
+Iteration 808: c = v, s = sesse, state = 9
+Iteration 809: c = a, s = trttr, state = 9
+Iteration 810: c = h, s = stert, state = 9
+Iteration 811: c = x, s = etrre, state = 9
+Iteration 812: c = k, s = esres, state = 9
+Iteration 813: c = k, s = etsee, state = 9
+Iteration 814: c = d, s = esets, state = 9
+Iteration 815: c = j, s = resee, state = 9
+Iteration 816: c = q, s = eeree, state = 9
+Iteration 817: c = [, s = etsre, state = 9
+Iteration 818: c = c, s = teees, state = 9
+Iteration 819: c = ], s = ersse, state = 9
+Iteration 820: c = k, s = eeter, state = 9
+Iteration 821: c = v, s = serse, state = 9
+Iteration 822: c = e, s = seste, state = 9
+Iteration 823: c = v, s = etess, state = 9
+Iteration 824: c = r, s = eesse, state = 9
+Iteration 825: c = }, s = rtstt, state = 9
+Iteration 826: c = t, s = eetrs, state = 9
+Iteration 827: c = r, s = ettre, state = 9
+Iteration 828: c = t, s = ssere, state = 9
+Iteration 829: c = v, s = etret, state = 9
+Iteration 830: c = q, s = tttst, state = 9
+Iteration 831: c = b, s = ttsrs, state = 9
+Iteration 832: c = r, s = ererr, state = 9
+Iteration 833: c = v, s = estes, state = 9
+Iteration 834: c = m, s = ertee, state = 9
+Iteration 835: c = t, s = erset, state = 9
+Iteration 836: c = z, s = seeee, state = 9
+Iteration 837: c = f, s = ersrs, state = 9
+Iteration 838: c = e, s = stetr, state = 9
+Iteration 839: c = a, s = eterr, state = 9
+Iteration 840: c = f, s = eetet, state = 9
+Iteration 841: c = n, s = tertr, state = 9
+Iteration 842: c = n, s = eeree, state = 9
+Iteration 843: c = r, s = seses, state = 9
+Iteration 844: c = n, s = teere, state = 9
+Iteration 845: c = e, s = tttes, state = 9
+Iteration 846: c = f, s = stetr, state = 9
+Iteration 847: c = b, s = rsess, state = 9
+Iteration 848: c = o, s = rsrts, state = 9
+Iteration 849: c = l, s = teste, state = 9
+Iteration 850: c = b, s = rsree, state = 9
+Iteration 851: c = b, s = errts, state = 9
+Iteration 852: c = ], s = steee, state = 9
+Iteration 853: c = e, s = ettee, state = 9
+Iteration 854: c = k, s = rtrtt, state = 9
+Iteration 855: c = [, s = reest, state = 9
+Iteration 856: c = m, s = esttt, state = 9
+Iteration 857: c =  , s = resrt, state = 9
+Iteration 858: c = {, s = tsttr, state = 9
+Iteration 859: c = u, s = essrt, state = 9
+Iteration 860: c = a, s = eetre, state = 9
+Iteration 861: c = h, s = eeess, state = 9
+Iteration 862: c = d, s = essst, state = 9
+Iteration 863: c = m, s = etesr, state = 9
+Iteration 864: c = h, s = rrrrs, state = 9
+Iteration 865: c = z, s = etrre, state = 9
+Iteration 866: c = d, s = ettes, state = 9
+Iteration 867: c = e, s = ssesr, state = 9
+Iteration 868: c = b, s = eeeer, state = 9
+Iteration 869: c = m, s = seree, state = 9
+Iteration 870: c = }, s = tesre, state = 9
+Iteration 871: c = b, s = stses, state = 9
+Iteration 872: c = i, s = estee, state = 9
+Iteration 873: c = i, s = eterr, state = 9
+Iteration 874: c = ), s = rrtee, state = 9
+Iteration 875: c = x, s = tteet, state = 9
+Iteration 876: c = h, s = etsrr, state = 9
+Iteration 877: c = }, s = srsee, state = 9
+Iteration 878: c = f, s = trtrs, state = 9
+Iteration 879: c = [, s = eserr, state = 9
+Iteration 880: c = o, s = ttets, state = 9
+Iteration 881: c = u, s = eeert, state = 9
+Iteration 882: c = r, s = setee, state = 9
+Iteration 883: c =  , s = esert, state = 9
+Iteration 884: c = t, s = sstrt, state = 9
+Iteration 885: c = (, s = setrr, state = 9
+Iteration 886: c = m, s = trsee, state = 9
+Iteration 887: c = }, s = srees, state = 9
+Iteration 888: c = z, s = teese, state = 9
+Iteration 889: c =  , s = sestr, state = 9
+Iteration 890: c = k, s = tttet, state = 9
+Iteration 891: c = r, s = stsss, state = 9
+Iteration 892: c = s, s = reess, state = 9
+Iteration 893: c = v, s = etrse, state = 9
+Iteration 894: c = g, s = eeerr, state = 9
+Iteration 895: c = b, s = seeet, state = 9
+Iteration 896: c = e, s = rttee, state = 9
+Iteration 897: c =  , s = reter, state = 9
+Iteration 898: c = {, s = reser, state = 9
+Iteration 899: c = z, s = seses, state = 9
+Iteration 900: c = a, s = eeret, state = 9
+Iteration 901: c =  , s = trser, state = 9
+Iteration 902: c = r, s = ersst, state = 9
+Iteration 903: c = j, s = etsrs, state = 9
+Iteration 904: c = t, s = estee, state = 9
+Iteration 905: c = r, s = tetet, state = 9
+Iteration 906: c = i, s = eesre, state = 9
+Iteration 907: c = m, s = erert, state = 9
+Iteration 908: c = }, s = erete, state = 9
+Iteration 909: c = k, s = esete, state = 9
+Iteration 910: c = {, s = steee, state = 9
+Iteration 911: c = u, s = ttree, state = 9
+Iteration 912: c = u, s = ettte, state = 9
+Iteration 913: c = o, s = eeeet, state = 9
+Iteration 914: c = }, s = esees, state = 9
+Iteration 915: c = t, s = teerr, state = 9
+Iteration 916: c = g, s = rerrt, state = 9
+Iteration 917: c = w, s = tseee, state = 9
+Iteration 918: c = t, s = setrs, state = 9
+Iteration 919: c = g, s = seerr, state = 9
+Iteration 920: c = l, s = ttess, state = 9
+Iteration 921: c = s, s = eteet, state = 9
+Iteration 922: c = t, s = ttrtt, state = 9
+Iteration 923: c = z, s = terre, state = 9
+Iteration 924: c = i, s = trese, state = 9
+Iteration 925: c = l, s = tttte, state = 9
+Iteration 926: c = f, s = rtses, state = 9
+Iteration 927: c = n, s = terrr, state = 9
+Iteration 928: c = v, s = tteet, state = 9
+Iteration 929: c = t, s = erttt, state = 9
+Iteration 930: c = k, s = treer, state = 9
+Iteration 931: c = p, s = trsee, state = 9
+Iteration 932: c = j, s = retrr, state = 9
+Iteration 933: c = p, s = serrs, state = 9
+Iteration 934: c = ], s = ertrt, state = 9
+Iteration 935: c = h, s = teest, state = 9
+Iteration 936: c = o, s = reese, state = 9
+Iteration 937: c = s, s = etsre, state = 9
+Iteration 938: c = p, s = eerte, state = 9
+Iteration 939: c = w, s = esrss, state = 9
+Iteration 940: c = k, s = etrre, state = 9
+Iteration 941: c = s, s = etese, state = 9
+Iteration 942: c = s, s = eseet, state = 9
+Iteration 943: c = r, s = srest, state = 9
+Iteration 944: c = t, s = eseer, state = 9
+Iteration 945: c = j, s = ertrr, state = 9
+Iteration 946: c = (, s = ettse, state = 9
+Iteration 947: c = ], s = eeeee, state = 9
+Iteration 948: c = h, s = reees, state = 9
+Iteration 949: c = y, s = serrs, state = 9
+Iteration 950: c = k, s = ersss, state = 9
+Iteration 951: c = ), s = seees, state = 9
+Iteration 952: c = t, s = eeste, state = 9
+Iteration 953: c = d, s = reeet, state = 9
+Iteration 954: c = u, s = eerrt, state = 9
+Iteration 955: c = b, s = tstte, state = 9
+Iteration 956: c = u, s = teert, state = 9
+Iteration 957: c = g, s = esers, state = 9
+Iteration 958: c = t, s = rsrer, state = 9
+Iteration 959: c = t, s = rrtre, state = 9
+Iteration 960: c = g, s = rssee, state = 9
+Iteration 961: c = q, s = rsret, state = 9
+Iteration 962: c = [, s = tstrt, state = 9
+Iteration 963: c = w, s = tteet, state = 9
+Iteration 964: c = f, s = strss, state = 9
+Iteration 965: c = e, s = ssere, state = 9
+Iteration 966: c = (, s = eeres, state = 9
+Iteration 967: c = g, s = tetre, state = 9
+Iteration 968: c = q, s = esree, state = 9
+Iteration 969: c = ), s = eeess, state = 9
+Iteration 970: c = o, s = srres, state = 9
+Iteration 971: c = }, s = ertre, state = 9
+Iteration 972: c = {, s = ettrr, state = 9
+Iteration 973: c = w, s = teets, state = 9
+Iteration 974: c = d, s = reres, state = 9
+Iteration 975: c = i, s = trter, state = 9
+Iteration 976: c = l, s = seeee, state = 9
+Iteration 977: c = i, s = esess, state = 9
+Iteration 978: c = d, s = eeett, state = 9
+Iteration 979: c = v, s = trtte, state = 9
+Iteration 980: c = a, s = eeret, state = 9
+Iteration 981: c = r, s = teeee, state = 9
+Iteration 982: c = r, s = tstst, state = 9
+Iteration 983: c = j, s = rssts, state = 9
+Iteration 984: c = d, s = eerst, state = 9
+Iteration 985: c = o, s = esser, state = 9
+Iteration 986: c = p, s = estrs, state = 9
+Iteration 987: c = m, s = seree, state = 9
+Iteration 988: c = w, s = eetrt, state = 9
+Iteration 989: c = n, s = eetee, state = 9
+Iteration 990: c = (, s = restr, state = 9
+Iteration 991: c = (, s = rette, state = 9
+Iteration 992: c = n, s = tsttr, state = 9
+Iteration 993: c = n, s = ettre, state = 9
+Iteration 994: c = p, s = etete, state = 9
+Iteration 995: c = ], s = teeee, state = 9
+Iteration 996: c = ], s = eetss, state = 9
+Iteration 997: c = f, s = eesrr, state = 9
+Iteration 998: c = u, s = reree, state = 9
+Iteration 999: c = r, s = seers, state = 9
+Iteration 1000: c = u, s = seeet, state = 9
+Iteration 1001: c = j, s = eetsr, state = 9
+Iteration 1002: c = s, s = seete, state = 9
+Iteration 1003: c = o, s = eetts, state = 9
+Iteration 1004: c = g, s = etsee, state = 9
+Iteration 1005: c = g, s = etsts, state = 9
+Iteration 1006: c = }, s = rrste, state = 9
+Iteration 1007: c = k, s = sssee, state = 9
+Iteration 1008: c = c, s = retts, state = 9
+Iteration 1009: c = e, s = trset, state = 9
+Iteration 1010: c = z, s = rrtte, state = 9
+Iteration 1011: c = b, s = eetss, state = 9
+Iteration 1012: c = k, s = tteet, state = 9
+Iteration 1013: c = p, s = stree, state = 9
+Iteration 1014: c = z, s = srrte, state = 9
+Iteration 1015: c = o, s = seesr, state = 9
+Iteration 1016: c = t, s = rerte, state = 9
+Iteration 1017: c = f, s = esete, state = 9
+Iteration 1018: c = f, s = ertte, state = 9
+Iteration 1019: c = ], s = trstt, state = 9
+Iteration 1020: c = k, s = ttere, state = 9
+Iteration 1021: c = (, s = retsr, state = 9
+Iteration 1022: c = u, s = setse, state = 9
+Iteration 1023: c = a, s = sesss, state = 9
+Iteration 1024: c = k, s = teete, state = 9
+Iteration 1025: c = ), s = ssest, state = 9
+Iteration 1026: c = g, s = eesrt, state = 9
+Iteration 1027: c = {, s = sesee, state = 9
+Iteration 1028: c = }, s = settr, state = 9
+Iteration 1029: c = l, s = reser, state = 9
+Iteration 1030: c = l, s = sttes, state = 9
+Iteration 1031: c = o, s = srrer, state = 9
+Iteration 1032: c = b, s = rtses, state = 9
+Iteration 1033: c = (, s = eeete, state = 9
+Iteration 1034: c = x, s = resse, state = 9
+Iteration 1035: c = }, s = trsee, state = 9
+Iteration 1036: c = }, s = eeeet, state = 9
+Iteration 1037: c = r, s = trsee, state = 9
+Iteration 1038: c = t, s = eeste, state = 9
+Iteration 1039: c = o, s = rrest, state = 9
+Iteration 1040: c = e, s = eetee, state = 9
+Iteration 1041: c = }, s = ttesr, state = 9
+Iteration 1042: c = e, s = rtese, state = 9
+Iteration 1043: c = h, s = etter, state = 9
+Iteration 1044: c = ), s = esett, state = 9
+Iteration 1045: c = f, s = seeee, state = 9
+Iteration 1046: c = i, s = teesr, state = 9
+Iteration 1047: c = }, s = resrr, state = 9
+Iteration 1048: c = [, s = eeeet, state = 9
+Iteration 1049: c = g, s = tseee, state = 9
+Iteration 1050: c = e, s = eeess, state = 9
+Iteration 1051: c = b, s = eestt, state = 9
+Iteration 1052: c = i, s = seert, state = 9
+Iteration 1053: c = v, s = tster, state = 9
+Iteration 1054: c = w, s = tsesr, state = 9
+Iteration 1055: c = l, s = seter, state = 9
+Iteration 1056: c = (, s = rtrsr, state = 9
+Iteration 1057: c = k, s = tress, state = 9
+Iteration 1058: c = z, s = eeest, state = 9
+Iteration 1059: c = f, s = ereee, state = 9
+Iteration 1060: c = a, s = ertee, state = 9
+Iteration 1061: c = j, s = eeerr, state = 9
+Iteration 1062: c = g, s = srrrt, state = 9
+Iteration 1063: c = {, s = tstrs, state = 9
+Iteration 1064: c = k, s = tsesr, state = 9
+Iteration 1065: c = s, s = eeert, state = 9
+Iteration 1066: c = e, s = steer, state = 9
+Iteration 1067: c = k, s = esett, state = 9
+Iteration 1068: c = {, s = ersss, state = 9
+Iteration 1069: c = ], s = etete, state = 9
+Iteration 1070: c = q, s = rsees, state = 9
+Iteration 1071: c = c, s = ttstt, state = 9
+Iteration 1072: c = m, s = rttee, state = 9
+Iteration 1073: c = e, s = esrrt, state = 9
+Iteration 1074: c = r, s = etstr, state = 9
+Iteration 1075: c = k, s = trsrs, state = 9
+Iteration 1076: c = y, s = reeet, state = 9
+Iteration 1077: c = p, s = ssttr, state = 9
+Iteration 1078: c = y, s = teerr, state = 9
+Iteration 1079: c = m, s = eessr, state = 9
+Iteration 1080: c = o, s = strrs, state = 9
+Iteration 1081: c = u, s = tstrs, state = 9
+Iteration 1082: c = [, s = treet, state = 9
+Iteration 1083: c = o, s = eeter, state = 9
+Iteration 1084: c = g, s = teets, state = 9
+Iteration 1085: c = q, s = tretr, state = 9
+Iteration 1086: c =  , s = ettre, state = 9
+Iteration 1087: c = x, s = tetse, state = 9
+Iteration 1088: c = i, s = eeese, state = 9
+Iteration 1089: c = (, s = ettte, state = 9
+Iteration 1090: c = {, s = ettet, state = 9
+Iteration 1091: c = e, s = rrses, state = 9
+Iteration 1092: c = u, s = rtsee, state = 9
+Iteration 1093: c = }, s = eerse, state = 9
+Iteration 1094: c = y, s = estte, state = 9
+Iteration 1095: c = h, s = eetst, state = 9
+Iteration 1096: c = y, s = etsee, state = 9
+Iteration 1097: c = [, s = settr, state = 9
+Iteration 1098: c = h, s = tetee, state = 9
+Iteration 1099: c = (, s = eeeee, state = 9
+Iteration 1100: c = }, s = etest, state = 9
+Iteration 1101: c = w, s = rtsss, state = 9
+Iteration 1102: c = l, s = stter, state = 9
+Iteration 1103: c = o, s = ersse, state = 9
+Iteration 1104: c = }, s = ertre, state = 9
+Iteration 1105: c = s, s = reter, state = 9
+Iteration 1106: c = q, s = esttr, state = 9
+Iteration 1107: c = z, s = ttree, state = 9
+Iteration 1108: c = ), s = teese, state = 9
+Iteration 1109: c = d, s = rette, state = 9
+Iteration 1110: c = }, s = srret, state = 9
+Iteration 1111: c = ], s = ersst, state = 9
+Iteration 1112: c = x, s = etstt, state = 9
+Iteration 1113: c = a, s = rteee, state = 9
+Iteration 1114: c = {, s = teets, state = 9
+Iteration 1115: c = z, s = eeres, state = 9
+Iteration 1116: c = o, s = errer, state = 9
+Iteration 1117: c = i, s = eesrr, state = 9
+Iteration 1118: c = m, s = ssers, state = 9
+Iteration 1119: c = b, s = rstee, state = 9
+Iteration 1120: c = r, s = eeese, state = 9
+Iteration 1121: c = t, s = esrre, state = 9
+Iteration 1122: c = d, s = teeee, state = 9
+Iteration 1123: c = c, s = rrers, state = 9
+Iteration 1124: c = l, s = etrrr, state = 9
+Iteration 1125: c = [, s = tsete, state = 9
+Iteration 1126: c = q, s = eetet, state = 9
+Iteration 1127: c = k, s = eesse, state = 9
+Iteration 1128: c = {, s = esses, state = 9
+Iteration 1129: c = z, s = eeeee, state = 9
+Iteration 1130: c = c, s = esrte, state = 9
+Iteration 1131: c = c, s = estsr, state = 9
+Iteration 1132: c = m, s = stete, state = 9
+Iteration 1133: c = p, s = resst, state = 9
+Iteration 1134: c = g, s = tettt, state = 9
+Iteration 1135: c =  , s = sesss, state = 9
+Iteration 1136: c = o, s = reerr, state = 9
+Iteration 1137: c = m, s = rtttt, state = 9
+Iteration 1138: c = h, s = eeeer, state = 9
+Iteration 1139: c = {, s = eetee, state = 9
+Iteration 1140: c = x, s = ereee, state = 9
+Iteration 1141: c = g, s = eestr, state = 9
+Iteration 1142: c = ), s = rettt, state = 9
+Iteration 1143: c = e, s = srerr, state = 9
+Iteration 1144: c = m, s = eestt, state = 9
+Iteration 1145: c = v, s = rrere, state = 9
+Iteration 1146: c = t, s = rsest, state = 9
+Iteration 1147: c = b, s = stste, state = 9
+Iteration 1148: c = p, s = trere, state = 9
+Iteration 1149: c = u, s = teeee, state = 9
+Iteration 1150: c = j, s = trrss, state = 9
+Iteration 1151: c = d, s = rseer, state = 9
+Iteration 1152: c = (, s = stter, state = 9
+Iteration 1153: c = y, s = tssss, state = 9
+Iteration 1154: c = n, s = seeee, state = 9
+Iteration 1155: c = e, s = tsete, state = 9
+Iteration 1156: c = ], s = eeess, state = 9
+Iteration 1157: c = t, s = ttsre, state = 9
+Iteration 1158: c = z, s = treer, state = 9
+Iteration 1159: c = ), s = etesr, state = 9
+Iteration 1160: c = q, s = rteet, state = 9
+Iteration 1161: c = l, s = ssese, state = 9
+Iteration 1162: c = ], s = rrstr, state = 9
+Iteration 1163: c = z, s = eerrr, state = 9
+Iteration 1164: c = f, s = rrset, state = 9
+Iteration 1165: c = w, s = estte, state = 9
+Iteration 1166: c = (, s = trset, state = 9
+Iteration 1167: c = o, s = rtrsr, state = 9
+Iteration 1168: c = e, s = strre, state = 9
+Iteration 1169: c = f, s = seees, state = 9
+Iteration 1170: c = k, s = estrt, state = 9
+Iteration 1171: c = q, s = sette, state = 9
+Iteration 1172: c = a, s = ttsee, state = 9
+Iteration 1173: c = w, s = resre, state = 9
+Iteration 1174: c = m, s = erees, state = 9
+Iteration 1175: c = u, s = rress, state = 9
+Iteration 1176: c = r, s = eteer, state = 9
+Iteration 1177: c = j, s = ttres, state = 9
+Iteration 1178: c = u, s = ttret, state = 9
+Iteration 1179: c = ), s = etert, state = 9
+Iteration 1180: c = ), s = erses, state = 9
+Iteration 1181: c = {, s = errte, state = 9
+Iteration 1182: c = c, s = sseet, state = 9
+Iteration 1183: c = m, s = trtee, state = 9
+Iteration 1184: c = b, s = ttsse, state = 9
+Iteration 1185: c = t, s = rttte, state = 9
+Iteration 1186: c = i, s = eteer, state = 9
+Iteration 1187: c = k, s = estts, state = 9
+Iteration 1188: c = a, s = reett, state = 9
+Iteration 1189: c = e, s = seere, state = 9
+Iteration 1190: c = x, s = setes, state = 9
+Iteration 1191: c = q, s = trest, state = 9
+Iteration 1192: c = (, s = tsete, state = 9
+Iteration 1193: c = n, s = teere, state = 9
+Iteration 1194: c = ), s = trter, state = 9
+Iteration 1195: c = n, s = etrss, state = 9
+Iteration 1196: c = m, s = sesre, state = 9
+Iteration 1197: c = a, s = esrte, state = 9
+Iteration 1198: c = [, s = erets, state = 9
+Iteration 1199: c = l, s = rsees, state = 9
+Iteration 1200: c = n, s = rrsst, state = 9
+Iteration 1201: c = z, s = eeeet, state = 9
+Iteration 1202: c = s, s = ereee, state = 9
+Iteration 1203: c = z, s = rtert, state = 9
+Iteration 1204: c = q, s = eeret, state = 9
+Iteration 1205: c = s, s = etete, state = 9
+Iteration 1206: c = c, s = etttr, state = 9
+Iteration 1207: c = y, s = eeses, state = 9
+Iteration 1208: c = g, s = tttet, state = 9
+Iteration 1209: c = g, s = eteet, state = 9
+Iteration 1210: c = i, s = seees, state = 9
+Iteration 1211: c = c, s = reset, state = 9
+error File 'testme.c'
+Lines executed:97.14% of 35
+Branches executed:100.00% of 52
+Taken at least once:96.15% of 52
+Calls executed:100.00% of 10
+Creating 'testme.c.gcov'
+
+        -:    0:Source:testme.c
+        -:    0:Graph:testme.gcno
+        -:    0:Data:testme.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:#include<string.h>
+        -:    3:#include<stdlib.h>
+        -:    4:#include<time.h>
+        -:    5:
+function inputChar called 1211 returned 100% blocks executed 100%
+     1211:    6:char inputChar()
+        -:    7:{
+        -:    8:
+     1211:    9:	char c = "[({ abcdefghijklmnopqrstuvwxyz})]"[rand() % 33]; 
+call    0 returned 100%
+        -:   10:
+     1211:   11:    return c;
+        -:   12:}
+        -:   13:
+function inputString called 1211 returned 100% blocks executed 100%
+     1211:   14:char *inputString()
+        -:   15:{
+        -:   16:
+     1211:   17:	char *s = malloc(sizeof(char) * (6)); 
+        -:   18:	
+        -:   19:	int i;
+        -:   20:
+        -:   21:	
+     7266:   22:	for( i = 0; i < 5; i++){
+branch  0 taken 83%
+branch  1 taken 17% (fallthrough)
+        -:   23:		
+     6055:   24:		s[i] = "reset"[rand() % 5];
+call    0 returned 100%
+        -:   25:	}
+        -:   26:
+        -:   27:	
+     1211:   28:    return s;
+        -:   29:}
+        -:   30:
+function testme called 1 returned 0% blocks executed 100%
+        1:   31:void testme()
+        -:   32:{
+        1:   33:  int tcCount = 0;
+        -:   34:  char *s;
+        -:   35:  char c;
+        1:   36:  int state = 0;
+        -:   37:  while (1)
+        -:   38:  {
+     1211:   39:    tcCount++;
+     1211:   40:    c = inputChar();
+call    0 returned 100%
+     1211:   41:    s = inputString();
+call    0 returned 100%
+     1211:   42:    printf("Iteration %d: c = %c, s = %s, state = %d\n", tcCount, c, s, state);
+call    0 returned 100%
+        -:   43:
+     1211:   44:    if (c == '[' && state == 0) state = 1;
+branch  0 taken 2% (fallthrough)
+branch  1 taken 98%
+branch  2 taken 4% (fallthrough)
+branch  3 taken 96%
+     1211:   45:    if (c == '(' && state == 1) state = 2;
+branch  0 taken 3% (fallthrough)
+branch  1 taken 97%
+branch  2 taken 3% (fallthrough)
+branch  3 taken 97%
+     1211:   46:    if (c == '{' && state == 2) state = 3;
+branch  0 taken 3% (fallthrough)
+branch  1 taken 97%
+branch  2 taken 3% (fallthrough)
+branch  3 taken 97%
+     1211:   47:    if (c == ' '&& state == 3) state = 4;
+branch  0 taken 2% (fallthrough)
+branch  1 taken 98%
+branch  2 taken 5% (fallthrough)
+branch  3 taken 95%
+     1211:   48:    if (c == 'a' && state == 4) state = 5;
+branch  0 taken 2% (fallthrough)
+branch  1 taken 98%
+branch  2 taken 4% (fallthrough)
+branch  3 taken 96%
+     1211:   49:    if (c == 'x' && state == 5) state = 6;
+branch  0 taken 2% (fallthrough)
+branch  1 taken 98%
+branch  2 taken 4% (fallthrough)
+branch  3 taken 96%
+     1211:   50:    if (c == '}' && state == 6) state = 7;
+branch  0 taken 3% (fallthrough)
+branch  1 taken 97%
+branch  2 taken 3% (fallthrough)
+branch  3 taken 97%
+     1211:   51:    if (c == ')' && state == 7) state = 8;
+branch  0 taken 3% (fallthrough)
+branch  1 taken 97%
+branch  2 taken 3% (fallthrough)
+branch  3 taken 97%
+     1211:   52:    if (c == ']' && state == 8) state = 9;
+branch  0 taken 4% (fallthrough)
+branch  1 taken 96%
+branch  2 taken 2% (fallthrough)
+branch  3 taken 98%
+     1211:   53:    if (s[0] == 'r' && s[1] == 'e'
+branch  0 taken 19% (fallthrough)
+branch  1 taken 81%
+branch  2 taken 38% (fallthrough)
+branch  3 taken 63%
+       87:   54:       && s[2] == 's' && s[3] == 'e'
+branch  0 taken 26% (fallthrough)
+branch  1 taken 74%
+branch  2 taken 52% (fallthrough)
+branch  3 taken 48%
+       12:   55:       && s[4] == 't' && s[5] == '\0'
+branch  0 taken 8% (fallthrough)
+branch  1 taken 92%
+branch  2 taken 100% (fallthrough)
+branch  3 taken 0%
+        1:   56:       && state == 9)
+branch  0 taken 100% (fallthrough)
+branch  1 taken 0%
+        -:   57:    {
+        1:   58:      printf("error ");
+call    0 returned 100%
+        1:   59:      exit(200);
+call    0 returned 0%
+        -:   60:    }
+     1210:   61:  }
+        -:   62:}
+        -:   63:
+        -:   64:
+function main called 1 returned 0% blocks executed 80%
+        1:   65:int main(int argc, char *argv[])
+        -:   66:{
+        1:   67:    srand(time(NULL));
+call    0 returned 100%
+call    1 returned 100%
+        1:   68:    testme();
+call    0 returned 0%
+    #####:   69:    return 0;
+        -:   70:}
