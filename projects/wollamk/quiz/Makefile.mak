@@ -1,10 +1,10 @@
 CFLAGS= -Wall -fpic -coverage -lm -std=c99
 
-testme: testme.c
-	gcc -o testme testme.c -g $(CFLAGS)
+testme.o: testme.c
+	gcc -c testme.c -g  $(CFLAGS)
 
-
-#########
+testme: testme.o
+	gcc -o testme -g testme.o $(CFLAGS)
 
 testresults: testme
 	./testme &> testresults.out
