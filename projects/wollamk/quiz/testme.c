@@ -13,16 +13,25 @@ char inputChar()
 
 char *inputString()
 {
-	//char a[] = "This is a string";
-	char *s = malloc(sizeof(char) * (6)); 
+	char a[] = "reset";
 	
 	int i;
-
 	
 	for( i = 0; i < 5; i++){
 		
-		s[i] = "reset"[rand() % 5];
+		a[i] = "reset"[rand() % 5];
 	}
+	
+	char* s = &a[0] 
+	//char *s = malloc(sizeof(char) * (6)); 
+	
+	//int i;
+
+	
+	//for( i = 0; i < 5; i++){
+		
+	//	s[i] = "reset"[rand() % 5];
+	//}
 
 	
     return s;
