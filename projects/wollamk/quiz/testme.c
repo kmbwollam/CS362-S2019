@@ -13,7 +13,7 @@ char inputChar()
 
 char *inputString()
 {
-
+	//char a[] = "This is a string";
 	char *s = malloc(sizeof(char) * (6)); 
 	
 	int i;
