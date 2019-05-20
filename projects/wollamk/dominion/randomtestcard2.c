@@ -10,46 +10,48 @@
 #define DEBUG 0
 #define NOISY_TEST 1
 
-int checkAdventurer(int p, struct gameState *post, int handPos) {
+int checkVillage(int p, struct gameState *post, int handPos) {
   struct gameState pre;
   memcpy (&pre, post, sizeof(struct gameState));
 
   int r;
     
-  r = playAdventurer(p, post, handPos);
+  r = playVillage(p, post, handPos);
 
 
 	if(r!=0) {
-		printf("FAIL: playAdventurer returned %d\n", r);
+		printf("FAIL: playVillage returned %d\n", r);
 		return 1; 
 	}
   //assert (r == 0);
   
-	int newCards = 2;
+	int newCards = 1;
+	int newActions = 2;
 	//int newCardsOther = 0;
     int discarded = 1;
-	int i;
+	//int i;
 	int count = 0;
 
-	for (i = 0; i < pre.deckCount[p]; i++)
-    {
-		if (pre.deck[p][i] < 7 &&  pre.deck[p][i] > 3) count++;
-    }
-
-	for (i = 0; i < pre.discardCount[p]; i++)
-    {
-		if (pre.discard[p][i] < 7 && pre.discard[p][i] > 3 ) count++;
-    }
-
+	
+	count += pre.deckCount[p]; 
+	count += pre.discardCount[p]; 
+	
 	if (newCards > count) newCards = count;
 	
 	int expectedHandCount = pre.handCount[p] + newCards - discarded;
 	
+	if(pre.numActions + newActions != post->numActions){
+		printf("FAIL: playVillage action error\nexpected: %d, actual: %d\n", (pre.numActions + newActions), post->numActions);
+		return 1;
+	}
+	// assert((pre.numActions + newActions) == post->numActions);
+
 	if( expectedHandCount != post->handCount[p]){
-		printf("FAIL: playAdventurer handcount error\nexpected: %d, actual: %d, Treasure count: %d\n", expectedHandCount, post->handCount[p], count);
+		printf("FAIL: playVillage handcount error\nexpected: %d, actual: %d, hand + discard count: %d\n", expectedHandCount, post->handCount[p], count);
 		return 1; 
 	}
  // assert(expectedHandCount == post.handCount[p]);
+ 
 	return 0;
 }
 
@@ -62,7 +64,7 @@ int main () {
 
   struct gameState G;
 
-  printf ("Testing playAdventurer.\n");
+  printf ("Testing playVillage.\n");
 
   printf ("RANDOM TESTS.\n");
 
@@ -92,7 +94,9 @@ int main () {
 		G.hand[p][i] = floor(Random() *27); 
 	}
 	int h = floor(Random() * G.handCount[p]); 
-    numBugs += checkAdventurer(p, &G, h);
+    G.numActions = floor(Random() * 100) + 1;
+	numBugs += checkVillage(p, &G, h);
+	
   }
 
   if (numBugs == 0){ printf ("ALL TESTS PASS\n");}
