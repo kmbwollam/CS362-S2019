@@ -1,0 +1,493 @@
+Testing playAdventurer.
+RANDOM TESTS.
+FAIL: playAdventurer handcount error
+expected: 35, actual: 54, Treasure count: 41
+FAIL: playAdventurer handcount error
+expected: 474, actual: 493, Treasure count: 47
+FAIL: playAdventurer handcount error
+expected: 191, actual: 210, Treasure count: 58
+FAIL: playAdventurer handcount error
+expected: 320, actual: 339, Treasure count: 38
+FAIL: playAdventurer handcount error
+expected: 409, actual: 428, Treasure count: 24
+FAIL: playAdventurer handcount error
+expected: 356, actual: 375, Treasure count: 59
+FAIL: playAdventurer handcount error
+expected: 35, actual: 54, Treasure count: 57
+FAIL: playAdventurer handcount error
+expected: 76, actual: 95, Treasure count: 68
+FAIL: playAdventurer handcount error
+expected: 36, actual: 55, Treasure count: 86
+FAIL: playAdventurer handcount error
+expected: 394, actual: 413, Treasure count: 72
+FAIL: playAdventurer handcount error
+expected: 272, actual: 291, Treasure count: 77
+FAIL: playAdventurer handcount error
+expected: 304, actual: 323, Treasure count: 57
+FAIL: playAdventurer handcount error
+expected: 226, actual: 245, Treasure count: 83
+FAIL: playAdventurer handcount error
+expected: 72, actual: 91, Treasure count: 42
+FAIL: playAdventurer handcount error
+expected: 26, actual: 45, Treasure count: 65
+FAIL: playAdventurer handcount error
+expected: 241, actual: 260, Treasure count: 32
+FAIL: playAdventurer handcount error
+expected: 496, actual: 33, Treasure count: 61
+FAIL: playAdventurer handcount error
+expected: 436, actual: 455, Treasure count: 57
+FAIL: playAdventurer handcount error
+expected: 436, actual: 455, Treasure count: 20
+FAIL: playAdventurer handcount error
+expected: 112, actual: 131, Treasure count: 58
+FAIL: playAdventurer handcount error
+expected: 404, actual: 423, Treasure count: 43
+FAIL: playAdventurer handcount error
+expected: 219, actual: 238, Treasure count: 27
+FAIL: playAdventurer handcount error
+expected: 8, actual: 27, Treasure count: 90
+FAIL: playAdventurer handcount error
+expected: 425, actual: 444, Treasure count: 54
+FAIL: playAdventurer handcount error
+expected: 281, actual: 300, Treasure count: 50
+FAIL: playAdventurer handcount error
+expected: 26, actual: 45, Treasure count: 29
+FAIL: playAdventurer handcount error
+expected: 67, actual: 86, Treasure count: 38
+FAIL: playAdventurer handcount error
+expected: 245, actual: 264, Treasure count: 102
+FAIL: playAdventurer handcount error
+expected: 260, actual: 279, Treasure count: 44
+FAIL: playAdventurer handcount error
+expected: 261, actual: 280, Treasure count: 45
+FAIL: playAdventurer handcount error
+expected: 20, actual: 39, Treasure count: 57
+FAIL: playAdventurer handcount error
+expected: 166, actual: 185, Treasure count: 27
+FAIL: playAdventurer handcount error
+expected: 399, actual: 418, Treasure count: 82
+FAIL: playAdventurer handcount error
+expected: 229, actual: 248, Treasure count: 103
+FAIL: playAdventurer handcount error
+expected: 110, actual: 129, Treasure count: 72
+FAIL: playAdventurer handcount error
+expected: 126, actual: 145, Treasure count: 33
+FAIL: playAdventurer handcount error
+expected: 179, actual: 198, Treasure count: 92
+FAIL: playAdventurer handcount error
+expected: 478, actual: 497, Treasure count: 84
+FAIL: playAdventurer handcount error
+expected: 56, actual: 75, Treasure count: 50
+FAIL: playAdventurer handcount error
+expected: 294, actual: 313, Treasure count: 35
+FAIL: playAdventurer handcount error
+expected: 94, actual: 113, Treasure count: 39
+FAIL: playAdventurer handcount error
+expected: 102, actual: 121, Treasure count: 53
+FAIL: playAdventurer handcount error
+expected: 103, actual: 122, Treasure count: 46
+FAIL: playAdventurer handcount error
+expected: 490, actual: 509, Treasure count: 66
+FAIL: playAdventurer handcount error
+expected: 321, actual: 340, Treasure count: 31
+FAIL: playAdventurer handcount error
+expected: 261, actual: 280, Treasure count: 44
+FAIL: playAdventurer handcount error
+expected: 115, actual: 134, Treasure count: 85
+FAIL: playAdventurer handcount error
+expected: 120, actual: 139, Treasure count: 100
+FAIL: playAdventurer handcount error
+expected: 211, actual: 230, Treasure count: 66
+FAIL: playAdventurer handcount error
+expected: 481, actual: 500, Treasure count: 25
+FAIL: playAdventurer handcount error
+expected: 61, actual: 72, Treasure count: 12
+FAIL: playAdventurer handcount error
+expected: 243, actual: 262, Treasure count: 51
+FAIL: playAdventurer handcount error
+expected: 143, actual: 162, Treasure count: 63
+FAIL: playAdventurer handcount error
+expected: 156, actual: 175, Treasure count: 93
+FAIL: playAdventurer handcount error
+expected: 324, actual: 343, Treasure count: 71
+FAIL: playAdventurer handcount error
+expected: 66, actual: 85, Treasure count: 50
+FAIL: playAdventurer handcount error
+expected: 384, actual: 403, Treasure count: 45
+FAIL: playAdventurer handcount error
+expected: 215, actual: 234, Treasure count: 92
+FAIL: playAdventurer handcount error
+expected: 337, actual: 356, Treasure count: 60
+FAIL: playAdventurer handcount error
+expected: 133, actual: 142, Treasure count: 10
+FAIL: playAdventurer handcount error
+expected: 202, actual: 221, Treasure count: 35
+FAIL: playAdventurer handcount error
+expected: 207, actual: 226, Treasure count: 44
+FAIL: playAdventurer handcount error
+expected: 389, actual: 408, Treasure count: 64
+FAIL: playAdventurer handcount error
+expected: 349, actual: 368, Treasure count: 62
+FAIL: playAdventurer handcount error
+expected: 112, actual: 131, Treasure count: 58
+FAIL: playAdventurer handcount error
+expected: 19, actual: 38, Treasure count: 69
+FAIL: playAdventurer handcount error
+expected: 430, actual: 449, Treasure count: 67
+FAIL: playAdventurer handcount error
+expected: 249, actual: 268, Treasure count: 28
+FAIL: playAdventurer handcount error
+expected: 39, actual: 58, Treasure count: 62
+FAIL: playAdventurer handcount error
+expected: 105, actual: 124, Treasure count: 59
+FAIL: playAdventurer handcount error
+expected: 229, actual: 247, Treasure count: 19
+FAIL: playAdventurer handcount error
+expected: 206, actual: 225, Treasure count: 33
+FAIL: playAdventurer handcount error
+expected: 364, actual: 383, Treasure count: 67
+FAIL: playAdventurer handcount error
+expected: 102, actual: 121, Treasure count: 69
+FAIL: playAdventurer handcount error
+expected: 476, actual: 495, Treasure count: 86
+FAIL: playAdventurer handcount error
+expected: 263, actual: 282, Treasure count: 64
+FAIL: playAdventurer handcount error
+expected: 434, actual: 453, Treasure count: 47
+FAIL: playAdventurer handcount error
+expected: 375, actual: 394, Treasure count: 84
+FAIL: playAdventurer handcount error
+expected: 282, actual: 301, Treasure count: 68
+FAIL: playAdventurer handcount error
+expected: 388, actual: 407, Treasure count: 56
+FAIL: playAdventurer handcount error
+expected: 310, actual: 329, Treasure count: 61
+FAIL: playAdventurer handcount error
+expected: 73, actual: 92, Treasure count: 40
+FAIL: playAdventurer handcount error
+expected: 55, actual: 74, Treasure count: 32
+FAIL: playAdventurer handcount error
+expected: 217, actual: 236, Treasure count: 55
+FAIL: playAdventurer handcount error
+expected: 237, actual: 256, Treasure count: 36
+FAIL: playAdventurer handcount error
+expected: 106, actual: 115, Treasure count: 10
+FAIL: playAdventurer handcount error
+expected: 129, actual: 145, Treasure count: 17
+FAIL: playAdventurer handcount error
+expected: 134, actual: 153, Treasure count: 55
+FAIL: playAdventurer handcount error
+expected: 18, actual: 37, Treasure count: 48
+FAIL: playAdventurer handcount error
+expected: 465, actual: 484, Treasure count: 89
+FAIL: playAdventurer handcount error
+expected: 270, actual: 289, Treasure count: 24
+FAIL: playAdventurer handcount error
+expected: 478, actual: 497, Treasure count: 52
+FAIL: playAdventurer handcount error
+expected: 94, actual: 113, Treasure count: 65
+FAIL: playAdventurer handcount error
+expected: 498, actual: 517, Treasure count: 47
+FAIL: playAdventurer handcount error
+expected: 361, actual: 380, Treasure count: 100
+FAIL: playAdventurer handcount error
+expected: 31, actual: 50, Treasure count: 53
+FAIL: playAdventurer handcount error
+expected: 420, actual: 439, Treasure count: 52
+FAIL: playAdventurer handcount error
+expected: 487, actual: 506, Treasure count: 79
+FAIL: playAdventurer handcount error
+expected: 213, actual: 232, Treasure count: 43
+FAIL: playAdventurer handcount error
+expected: 427, actual: 446, Treasure count: 20
+
+100 Failed tests in 100 runs
+Testing playVillage.
+RANDOM TESTS.
+FAIL: playVillage handcount error
+expected: 34, actual: 35, hand + discard count: 369
+FAIL: playVillage handcount error
+expected: 472, actual: 473, hand + discard count: 473
+FAIL: playVillage handcount error
+expected: 411, actual: 412, hand + discard count: 399
+FAIL: playVillage handcount error
+expected: 314, actual: 315, hand + discard count: 415
+FAIL: playVillage handcount error
+expected: 48, actual: 49, hand + discard count: 535
+FAIL: playVillage handcount error
+expected: 178, actual: 179, hand + discard count: 221
+FAIL: playVillage handcount error
+expected: 388, actual: 389, hand + discard count: 662
+FAIL: playVillage handcount error
+expected: 184, actual: 185, hand + discard count: 728
+FAIL: playVillage handcount error
+expected: 491, actual: 492, hand + discard count: 208
+FAIL: playVillage handcount error
+expected: 402, actual: 403, hand + discard count: 506
+FAIL: playVillage handcount error
+expected: 32, actual: 33, hand + discard count: 284
+FAIL: playVillage handcount error
+expected: 152, actual: 153, hand + discard count: 659
+FAIL: playVillage handcount error
+expected: 372, actual: 373, hand + discard count: 615
+FAIL: playVillage handcount error
+expected: 169, actual: 170, hand + discard count: 642
+FAIL: playVillage handcount error
+expected: 170, actual: 171, hand + discard count: 670
+FAIL: playVillage handcount error
+expected: 64, actual: 65, hand + discard count: 100
+FAIL: playVillage handcount error
+expected: 94, actual: 95, hand + discard count: 762
+FAIL: playVillage handcount error
+expected: 237, actual: 238, hand + discard count: 154
+FAIL: playVillage handcount error
+expected: 441, actual: 442, hand + discard count: 245
+FAIL: playVillage handcount error
+expected: 494, actual: 495, hand + discard count: 495
+FAIL: playVillage handcount error
+expected: 317, actual: 318, hand + discard count: 510
+FAIL: playVillage handcount error
+expected: 482, actual: 483, hand + discard count: 499
+FAIL: playVillage handcount error
+expected: 443, actual: 444, hand + discard count: 619
+FAIL: playVillage handcount error
+expected: 125, actual: 126, hand + discard count: 317
+FAIL: playVillage handcount error
+expected: 87, actual: 88, hand + discard count: 333
+FAIL: playVillage handcount error
+expected: 5, actual: 6, hand + discard count: 77
+FAIL: playVillage handcount error
+expected: 263, actual: 264, hand + discard count: 212
+FAIL: playVillage handcount error
+expected: 311, actual: 312, hand + discard count: 806
+FAIL: playVillage handcount error
+expected: 290, actual: 291, hand + discard count: 411
+FAIL: playVillage handcount error
+expected: 140, actual: 141, hand + discard count: 423
+FAIL: playVillage handcount error
+expected: 114, actual: 115, hand + discard count: 463
+FAIL: playVillage handcount error
+expected: 424, actual: 425, hand + discard count: 460
+FAIL: playVillage handcount error
+expected: 133, actual: 134, hand + discard count: 490
+FAIL: playVillage handcount error
+expected: 361, actual: 362, hand + discard count: 835
+FAIL: playVillage handcount error
+expected: 238, actual: 239, hand + discard count: 320
+FAIL: playVillage handcount error
+expected: 185, actual: 186, hand + discard count: 555
+FAIL: playVillage handcount error
+expected: 218, actual: 219, hand + discard count: 371
+FAIL: playVillage handcount error
+expected: 446, actual: 447, hand + discard count: 924
+FAIL: playVillage handcount error
+expected: 83, actual: 84, hand + discard count: 506
+FAIL: playVillage handcount error
+expected: 19, actual: 20, hand + discard count: 914
+FAIL: playVillage handcount error
+expected: 483, actual: 484, hand + discard count: 514
+FAIL: playVillage handcount error
+expected: 335, actual: 336, hand + discard count: 845
+FAIL: playVillage handcount error
+expected: 169, actual: 170, hand + discard count: 924
+FAIL: playVillage handcount error
+expected: 131, actual: 132, hand + discard count: 667
+FAIL: playVillage handcount error
+expected: 448, actual: 449, hand + discard count: 519
+FAIL: playVillage handcount error
+expected: 17, actual: 18, hand + discard count: 772
+FAIL: playVillage handcount error
+expected: 32, actual: 33, hand + discard count: 518
+FAIL: playVillage handcount error
+expected: 402, actual: 403, hand + discard count: 796
+FAIL: playVillage handcount error
+expected: 81, actual: 82, hand + discard count: 158
+FAIL: playVillage handcount error
+expected: 138, actual: 139, hand + discard count: 353
+FAIL: playVillage handcount error
+expected: 13, actual: 14, hand + discard count: 470
+FAIL: playVillage handcount error
+expected: 345, actual: 346, hand + discard count: 495
+FAIL: playVillage handcount error
+expected: 285, actual: 286, hand + discard count: 405
+FAIL: playVillage handcount error
+expected: 380, actual: 381, hand + discard count: 568
+FAIL: playVillage handcount error
+expected: 170, actual: 171, hand + discard count: 254
+FAIL: playVillage handcount error
+expected: 71, actual: 72, hand + discard count: 418
+FAIL: playVillage handcount error
+expected: 241, actual: 242, hand + discard count: 624
+FAIL: playVillage handcount error
+expected: 279, actual: 280, hand + discard count: 583
+FAIL: playVillage handcount error
+expected: 349, actual: 350, hand + discard count: 384
+FAIL: playVillage handcount error
+expected: 259, actual: 260, hand + discard count: 807
+FAIL: playVillage handcount error
+expected: 484, actual: 485, hand + discard count: 844
+FAIL: playVillage handcount error
+expected: 215, actual: 216, hand + discard count: 413
+FAIL: playVillage handcount error
+expected: 168, actual: 169, hand + discard count: 546
+FAIL: playVillage handcount error
+expected: 83, actual: 84, hand + discard count: 871
+FAIL: playVillage handcount error
+expected: 49, actual: 50, hand + discard count: 776
+FAIL: playVillage handcount error
+expected: 52, actual: 53, hand + discard count: 301
+FAIL: playVillage handcount error
+expected: 433, actual: 434, hand + discard count: 74
+FAIL: playVillage handcount error
+expected: 50, actual: 51, hand + discard count: 468
+FAIL: playVillage handcount error
+expected: 414, actual: 415, hand + discard count: 426
+FAIL: playVillage handcount error
+expected: 487, actual: 488, hand + discard count: 662
+FAIL: playVillage handcount error
+expected: 4, actual: 5, hand + discard count: 607
+FAIL: playVillage handcount error
+expected: 41, actual: 42, hand + discard count: 555
+FAIL: playVillage handcount error
+expected: 253, actual: 254, hand + discard count: 525
+FAIL: playVillage handcount error
+expected: 488, actual: 489, hand + discard count: 474
+FAIL: playVillage handcount error
+expected: 4, actual: 5, hand + discard count: 901
+FAIL: playVillage handcount error
+expected: 147, actual: 148, hand + discard count: 526
+FAIL: playVillage handcount error
+expected: 417, actual: 418, hand + discard count: 394
+FAIL: playVillage handcount error
+expected: 62, actual: 63, hand + discard count: 241
+FAIL: playVillage handcount error
+expected: 159, actual: 160, hand + discard count: 332
+FAIL: playVillage handcount error
+expected: 47, actual: 48, hand + discard count: 668
+FAIL: playVillage handcount error
+expected: 357, actual: 358, hand + discard count: 245
+FAIL: playVillage handcount error
+expected: 129, actual: 130, hand + discard count: 107
+FAIL: playVillage handcount error
+expected: 349, actual: 350, hand + discard count: 154
+FAIL: playVillage handcount error
+expected: 129, actual: 130, hand + discard count: 446
+FAIL: playVillage handcount error
+expected: 5, actual: 6, hand + discard count: 665
+FAIL: playVillage handcount error
+expected: 336, actual: 337, hand + discard count: 339
+FAIL: playVillage handcount error
+expected: 459, actual: 460, hand + discard count: 414
+FAIL: playVillage handcount error
+expected: 53, actual: 54, hand + discard count: 761
+FAIL: playVillage handcount error
+expected: 398, actual: 399, hand + discard count: 420
+FAIL: playVillage handcount error
+expected: 380, actual: 381, hand + discard count: 556
+FAIL: playVillage handcount error
+expected: 278, actual: 279, hand + discard count: 635
+FAIL: playVillage handcount error
+expected: 145, actual: 146, hand + discard count: 637
+FAIL: playVillage handcount error
+expected: 415, actual: 416, hand + discard count: 423
+FAIL: playVillage handcount error
+expected: 48, actual: 49, hand + discard count: 382
+FAIL: playVillage handcount error
+expected: 255, actual: 256, hand + discard count: 571
+FAIL: playVillage handcount error
+expected: 452, actual: 453, hand + discard count: 592
+FAIL: playVillage handcount error
+expected: 400, actual: 401, hand + discard count: 664
+FAIL: playVillage handcount error
+expected: 463, actual: 464, hand + discard count: 937
+FAIL: playVillage handcount error
+expected: 45, actual: 46, hand + discard count: 715
+FAIL: playVillage handcount error
+expected: 258, actual: 259, hand + discard count: 758
+
+100 Failed tests in 100 runs
+Function 'updateCoins'
+Lines executed:0.00% of 11
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+
+Function 'discardCard'
+Lines executed:0.00% of 13
+
+Function 'cardEffect'
+Lines executed:0.00% of 209
+
+Function 'playRemodel'
+Lines executed:0.00% of 13
+
+Function 'playVillage'
+Lines executed:100.00% of 4
+
+Function 'playGreathall'
+Lines executed:0.00% of 5
+
+Function 'playSmithy'
+Lines executed:0.00% of 6
+
+Function 'playAdventurer'
+Lines executed:100.00% of 17
+
+Function 'getCost'
+Lines executed:0.00% of 30
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+
+Function 'whoseTurn'
+Lines executed:0.00% of 2
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+
+Function 'handCard'
+Lines executed:0.00% of 3
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+
+Function 'playCard'
+Lines executed:0.00% of 14
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+
+Function 'initializeGame'
+Lines executed:0.00% of 62
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+
+Function 'newGame'
+Lines executed:0.00% of 3
+
+Function 'compare'
+Lines executed:100.00% of 6
+
+File 'dominion.c'
+Lines executed:11.48% of 566
+Creating 'dominion.c.gcov'
+
