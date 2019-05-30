@@ -1,0 +1,374 @@
+randomtestcard3.c:
+randomtestcard1.c:
+randomtestcard2.c:
+Testing playVillage.
+RANDOM TESTS.
+FAIL: playVillage handcount error
+expected: 34, actual: 33, hand + discard count: 369
+FAIL: playVillage handcount error
+expected: 144, actual: 143, hand + discard count: 373
+FAIL: playVillage handcount error
+expected: 71, actual: 70, hand + discard count: 941
+FAIL: playVillage handcount error
+expected: 53, actual: 52, hand + discard count: 387
+FAIL: playVillage handcount error
+expected: 459, actual: 458, hand + discard count: 222
+FAIL: playVillage handcount error
+expected: 346, actual: 345, hand + discard count: 190
+FAIL: playVillage handcount error
+expected: 462, actual: 461, hand + discard count: 271
+FAIL: playVillage handcount error
+expected: 454, actual: 453, hand + discard count: 317
+FAIL: playVillage handcount error
+expected: 489, actual: 488, hand + discard count: 541
+FAIL: playVillage handcount error
+expected: 494, actual: 493, hand + discard count: 156
+FAIL: playVillage handcount error
+expected: 356, actual: 355, hand + discard count: 480
+FAIL: playVillage handcount error
+expected: 199, actual: 198, hand + discard count: 62
+FAIL: playVillage handcount error
+expected: 27, actual: 26, hand + discard count: 400
+FAIL: playVillage handcount error
+expected: 123, actual: 122, hand + discard count: 397
+FAIL: playVillage handcount error
+expected: 459, actual: 458, hand + discard count: 621
+FAIL: playVillage handcount error
+expected: 15, actual: 14, hand + discard count: 606
+FAIL: playVillage handcount error
+expected: 380, actual: 379, hand + discard count: 201
+FAIL: playVillage handcount error
+expected: 137, actual: 136, hand + discard count: 133
+FAIL: playVillage handcount error
+expected: 55, actual: 54, hand + discard count: 511
+FAIL: playVillage handcount error
+expected: 127, actual: 126, hand + discard count: 763
+FAIL: playVillage handcount error
+expected: 129, actual: 128, hand + discard count: 456
+FAIL: playVillage handcount error
+expected: 118, actual: 117, hand + discard count: 634
+FAIL: playVillage handcount error
+expected: 317, actual: 316, hand + discard count: 477
+FAIL: playVillage handcount error
+expected: 150, actual: 149, hand + discard count: 289
+FAIL: playVillage handcount error
+expected: 415, actual: 414, hand + discard count: 753
+FAIL: playVillage handcount error
+expected: 487, actual: 486, hand + discard count: 319
+FAIL: playVillage handcount error
+expected: 293, actual: 292, hand + discard count: 274
+FAIL: playVillage handcount error
+expected: 425, actual: 424, hand + discard count: 184
+FAIL: playVillage handcount error
+expected: 55, actual: 54, hand + discard count: 314
+FAIL: playVillage handcount error
+expected: 64, actual: 63, hand + discard count: 388
+FAIL: playVillage handcount error
+expected: 470, actual: 469, hand + discard count: 452
+FAIL: playVillage handcount error
+expected: 151, actual: 150, hand + discard count: 507
+FAIL: playVillage handcount error
+expected: 44, actual: 43, hand + discard count: 247
+FAIL: playVillage handcount error
+expected: 358, actual: 357, hand + discard count: 501
+FAIL: playVillage handcount error
+expected: 496, actual: 495, hand + discard count: 645
+FAIL: playVillage handcount error
+expected: 161, actual: 160, hand + discard count: 322
+FAIL: playVillage handcount error
+expected: 301, actual: 300, hand + discard count: 367
+FAIL: playVillage handcount error
+expected: 117, actual: 116, hand + discard count: 900
+FAIL: playVillage handcount error
+expected: 232, actual: 231, hand + discard count: 393
+FAIL: playVillage handcount error
+expected: 354, actual: 353, hand + discard count: 209
+FAIL: playVillage handcount error
+expected: 138, actual: 137, hand + discard count: 727
+FAIL: playVillage handcount error
+expected: 350, actual: 349, hand + discard count: 201
+FAIL: playVillage handcount error
+expected: 364, actual: 363, hand + discard count: 441
+FAIL: playVillage handcount error
+expected: 339, actual: 338, hand + discard count: 654
+FAIL: playVillage handcount error
+expected: 410, actual: 409, hand + discard count: 282
+FAIL: playVillage handcount error
+expected: 160, actual: 159, hand + discard count: 522
+FAIL: playVillage handcount error
+expected: 44, actual: 43, hand + discard count: 348
+FAIL: playVillage handcount error
+expected: 354, actual: 353, hand + discard count: 655
+FAIL: playVillage handcount error
+expected: 465, actual: 464, hand + discard count: 575
+FAIL: playVillage handcount error
+expected: 427, actual: 426, hand + discard count: 570
+FAIL: playVillage handcount error
+expected: 219, actual: 218, hand + discard count: 618
+FAIL: playVillage handcount error
+expected: 416, actual: 415, hand + discard count: 781
+FAIL: playVillage handcount error
+expected: 139, actual: 138, hand + discard count: 360
+FAIL: playVillage handcount error
+expected: 453, actual: 452, hand + discard count: 505
+FAIL: playVillage handcount error
+expected: 59, actual: 58, hand + discard count: 517
+FAIL: playVillage handcount error
+expected: 31, actual: 30, hand + discard count: 101
+FAIL: playVillage handcount error
+expected: 320, actual: 319, hand + discard count: 260
+FAIL: playVillage handcount error
+expected: 465, actual: 464, hand + discard count: 753
+FAIL: playVillage handcount error
+expected: 95, actual: 94, hand + discard count: 466
+FAIL: playVillage handcount error
+expected: 243, actual: 242, hand + discard count: 847
+FAIL: playVillage handcount error
+expected: 235, actual: 234, hand + discard count: 664
+FAIL: playVillage handcount error
+expected: 203, actual: 202, hand + discard count: 550
+FAIL: playVillage handcount error
+expected: 124, actual: 123, hand + discard count: 320
+FAIL: playVillage handcount error
+expected: 184, actual: 183, hand + discard count: 406
+FAIL: playVillage handcount error
+expected: 57, actual: 56, hand + discard count: 436
+FAIL: playVillage handcount error
+expected: 456, actual: 455, hand + discard count: 372
+FAIL: playVillage handcount error
+expected: 340, actual: 339, hand + discard count: 369
+FAIL: playVillage handcount error
+expected: 293, actual: 292, hand + discard count: 403
+FAIL: playVillage handcount error
+expected: 418, actual: 417, hand + discard count: 143
+FAIL: playVillage handcount error
+expected: 70, actual: 69, hand + discard count: 474
+FAIL: playVillage handcount error
+expected: 340, actual: 339, hand + discard count: 307
+FAIL: playVillage handcount error
+expected: 266, actual: 265, hand + discard count: 584
+FAIL: playVillage handcount error
+expected: 348, actual: 347, hand + discard count: 453
+FAIL: playVillage handcount error
+expected: 142, actual: 141, hand + discard count: 779
+FAIL: playVillage handcount error
+expected: 90, actual: 89, hand + discard count: 422
+FAIL: playVillage handcount error
+expected: 75, actual: 74, hand + discard count: 239
+FAIL: playVillage handcount error
+expected: 68, actual: 67, hand + discard count: 284
+FAIL: playVillage handcount error
+expected: 180, actual: 179, hand + discard count: 66
+FAIL: playVillage handcount error
+expected: 311, actual: 310, hand + discard count: 166
+FAIL: playVillage handcount error
+expected: 171, actual: 170, hand + discard count: 424
+FAIL: playVillage handcount error
+expected: 363, actual: 362, hand + discard count: 540
+FAIL: playVillage handcount error
+expected: 382, actual: 381, hand + discard count: 264
+FAIL: playVillage handcount error
+expected: 128, actual: 127, hand + discard count: 429
+FAIL: playVillage handcount error
+expected: 364, actual: 363, hand + discard count: 378
+FAIL: playVillage handcount error
+expected: 16, actual: 15, hand + discard count: 474
+FAIL: playVillage handcount error
+expected: 490, actual: 489, hand + discard count: 335
+FAIL: playVillage handcount error
+expected: 337, actual: 336, hand + discard count: 347
+FAIL: playVillage handcount error
+expected: 198, actual: 197, hand + discard count: 723
+FAIL: playVillage handcount error
+expected: 350, actual: 349, hand + discard count: 493
+FAIL: playVillage handcount error
+expected: 139, actual: 138, hand + discard count: 564
+FAIL: playVillage handcount error
+expected: 427, actual: 426, hand + discard count: 423
+FAIL: playVillage handcount error
+expected: 184, actual: 183, hand + discard count: 689
+FAIL: playVillage handcount error
+expected: 148, actual: 147, hand + discard count: 253
+FAIL: playVillage handcount error
+expected: 60, actual: 59, hand + discard count: 488
+FAIL: playVillage handcount error
+expected: 486, actual: 485, hand + discard count: 671
+FAIL: playVillage handcount error
+expected: 189, actual: 188, hand + discard count: 561
+FAIL: playVillage handcount error
+expected: 46, actual: 45, hand + discard count: 620
+FAIL: playVillage handcount error
+expected: 14, actual: 13, hand + discard count: 664
+FAIL: playVillage handcount error
+expected: 217, actual: 216, hand + discard count: 506
+FAIL: playVillage handcount error
+expected: 94, actual: 93, hand + discard count: 517
+
+100 Failed tests in 100 runs
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:61.54% of 13
+Branches executed:100.00% of 6
+Taken at least once:50.00% of 6
+Calls executed:100.00% of 1
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'cardEffect'
+Lines executed:21.18% of 203
+Branches executed:26.86% of 175
+Taken at least once:16.57% of 175
+Calls executed:31.48% of 54
+
+Function 'cardEffectSteward'
+Lines executed:0.00% of 11
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 6
+
+Function 'cardEffectHall'
+Lines executed:100.00% of 6
+No branches
+Calls executed:100.00% of 3
+
+Function 'cardEffectVillage'
+Lines executed:100.00% of 5
+No branches
+Calls executed:100.00% of 2
+
+Function 'cardEffectCouncil'
+Lines executed:100.00% of 9
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+Calls executed:100.00% of 4
+
+Function 'cardEffectSmithy'
+Lines executed:100.00% of 6
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 3
+
+Function 'cardEffectAdventurer'
+Lines executed:70.59% of 17
+Branches executed:66.67% of 12
+Taken at least once:41.67% of 12
+Calls executed:66.67% of 3
+
+Function 'getCost'
+Lines executed:13.33% of 30
+Branches executed:100.00% of 28
+Taken at least once:7.14% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:100.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:100.00% of 2
+No branches
+Calls executed:100.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:83.87% of 62
+Branches executed:95.65% of 46
+Taken at least once:78.26% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:37.79% of 569
+Branches executed:41.49% of 417
+Taken at least once:26.38% of 417
+Calls executed:40.59% of 101
+Creating 'dominion.c.gcov'
+

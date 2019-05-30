@@ -15,9 +15,9 @@ int checkVillage(int p, struct gameState *post, int handPos) {
   memcpy (&pre, post, sizeof(struct gameState));
 
   int r;
-    
-  r = playVillage(p, post, handPos);
-
+  int choice1 = 0, choice2 = 0, choice3 = 0, bonus = 0;  
+  r = cardEffect(village, choice1, choice2, choice3, post, handPos, &bonus); 
+  //playVillage(p, post, handPos);
 
 	if(r!=0) {
 		printf("FAIL: playVillage returned %d\n", r);
@@ -81,6 +81,7 @@ int main () {
     }
     G.numPlayers = floor(Random()* 3) + 2;
 	p = floor(Random() * G.numPlayers);
+	G.whoseTurn = p; 
     G.deckCount[p] = floor(Random() * MAX_DECK);
 	for (i = 0; i <G.deckCount[p]; i++){
 		G.deck[p][i] = floor(Random()*27);
@@ -93,6 +94,11 @@ int main () {
 	for (i = 0; i < G.handCount[p]; i++){
 		G.hand[p][i] = floor(Random() *27); 
 	}
+	G.playedCardCount = floor(Random() * (MAX_HAND-G.handCount[p]));
+	for (i = 0; i < G.playedCardCount; i++){
+		G.playedCards[i] = floor(Random() *27); 
+	}
+	
 	int h = floor(Random() * G.handCount[p]); 
     G.numActions = floor(Random() * 100) + 1;
 	numBugs += checkVillage(p, &G, h);

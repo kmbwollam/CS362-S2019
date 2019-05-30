@@ -1,0 +1,136 @@
+/*
+	Software Enginnering II 			Nadia M Viscovich
+	CS-362-400							Assignment-4
+	
+	RANDOMTESTADVENTURER.C: Random testing Adventurer function
+--------------------------------------------------------------*/
+
+#include "dominion.h"
+#include "dominion_helpers.h"
+#include <string.h>
+#include <stdio.h>
+#include <assert.h>
+#include "rngs.h"
+
+#define DEBUG 0
+#define NOISY_TEST 1
+
+int checkAdventurerCard(int p, struct gameState *post) {
+	int r,a,b,d,i;
+	int preC, postC; 
+	struct gameState pre; 
+	memcpy (&pre, post, sizeof(struct gameState));
+	int drawntreasure=0;
+	int cardDrawn;
+	int temphand[MAX_HAND];
+	int z = 0;   			// this is the counter for the temp hand
+	
+	//Count coins before playing Adventurer.
+	for (i=0; i<7; i++){
+		//if (&post->hand[p][i]==4 || &post->hand[p][i]==5  || &post->hand[p][i]==6)
+		//preC++;
+		preC = pre.hand[p][i];
+		printf("Pre pre coins: %d\n",preC); 
+	}
+	for (i=0; i<7; i++){
+		//if (&post->hand[p][i]==4 || &post->hand[p][i]==5  || &post->hand[p][i]==6)
+		//preC++;
+		preC = post->hand[p][i];
+		printf("Pre Post coins: %d\n",preC); 
+	}
+   
+	while(drawntreasure<2){
+		if (pre.deckCount[p] <1){	//if the deck is empty we need to shuffle discard and add to deck
+			shuffle(p, pre);
+		}
+		drawCard(p, pre);
+		cardDrawn = pre.hand[p][pre.handCount[p]-1];	//top card of hand is most recently drawn card.
+		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold){
+			drawntreasure++;
+		}
+		else{
+			temphand[z]=cardDrawn;
+			pre.handCount[p]--; //this should just remove the top card (the most recently drawn one).
+			z++;
+		}
+    }
+	while(z-1>=0){
+		pre.discard[p][pre.discardCount[p]++]=temphand[z-1]; // discard all cards in play that have been drawn
+		z=z-1;
+    }
+	
+
+	
+	//Assert cardeffect function for adventurer runs 	
+	r = cardEffect(adventurer, 0, 0, 0, &post, 0, NULL);
+	assert (r == 0);
+	printf("Card Effect function for Adventurer runs PASSED.\n"); 
+	
+	//Count coins after playing Adventurer.
+	for (i=0; i<7; i++){
+		//if (&post->hand[p][i]==4 || &post->hand[p][i]==5  || &post->hand[p][i]==6)
+		//postC++; 
+		postC = pre.hand[p][i];
+		printf("Post coins: %d\n",postC); 
+	}
+	
+	//Assert +2 coins where gained.
+	//assert (preC + 2 == postC); 
+	//printf("+2 coins test PASSED.\n"); 
+	
+	//Assert card was discarded.
+	a = handCard(0, &post);
+	b = handCard(0, &pre);
+	assert (a == b);
+	printf("Correct card was discarded PASSED.\n"); 
+	//Assert the right amount of cards is discarded.
+	a = pre.discardCount[p];
+	b = &post->discardCount[p];
+	assert (a == b);
+	printf("Amount of discarded cards PASSED.\n");
+}
+
+int main () {
+
+  int i,n,h,d, p, deckCount, discardCount, handCount;
+  int seed = 1000;
+  int k[10] = {adventurer, council_room, feast, gardens, mine,
+	       remodel, smithy, village, baron, great_hall};
+  struct gameState G;
+  srand(time(NULL));
+  
+
+  printf ("------------- Testing Adventurer -------------\n");
+
+  SelectStream(2);
+  PutSeed(3);
+
+  for (n = 0; n < 5; n++) {
+	h = 7;  //rand() % MAX_HAND;
+	int controlHand[h];
+	d = 10; //rand() % MAX_DECK;
+	int controlDeck[d];
+	//Fill controlHand with adventurer card in position 0 and the rest randomly
+	for (i=0; i<5 ; i++){
+		controlHand[0]= adventurer;
+		controlHand[i+1]= k[(rand() % 10) + 1];
+		//d = controlHand[i];
+		//printf("Control Hand %d \n", d);
+	}
+	//Fill controlDeck with ONLY treasure
+	for (i=0; i<d ; i++){
+		controlDeck[i]= (rand() %3) +4;
+		//d = controlDeck[i];
+		//printf("Control Deck %d \n", d); 
+	}	 
+    p = floor(Random() * 2);
+	initializeGame(p, k, seed, &G);
+	memcpy(G.hand[0], controlHand, sizeof(int) * MAX_HAND);	  // set cards according to controlHand
+	memcpy(G.deck[0], controlDeck, sizeof(int) * MAX_DECK);   // set cards according to controlDeck
+	checkAdventurerCard(p, &G);
+  }
+
+  printf ("ALL TESTS OK\n");
+
+  return 0;
+}
