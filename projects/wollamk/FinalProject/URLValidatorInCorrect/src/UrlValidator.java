@@ -270,7 +270,8 @@ public class UrlValidator implements Serializable {
         this.options = options;
 
         if (isOn(ALLOW_ALL_SCHEMES)) {
-        	allowedSchemes = new HashSet<String>(0);
+        	allowedSchemes = Collections.emptySet();
+        	//allowedSchemes = new HashSet<String>(0);
         	//allowedSchemes.add(schemes[0].toLowerCase(Locale.ENGLISH));   // was causing NULL pointer error when scheme null
         } else {
             if (schemes == null) {
