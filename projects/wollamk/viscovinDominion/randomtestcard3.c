@@ -102,10 +102,8 @@ int main () {
 	for (i = 0; i < G.handCount[p]; i++){
 		G.hand[p][i] = floor(Random() *27); 
 	}
-	G.playedCardCount = floor(Random() * (MAX_HAND-G.handCount[p]));
-	for (i = 0; i < G.playedCardCount; i++){
-		G.playedCards[i] = floor(Random() *27); 
-	}
+	G.playedCardCount = 0;
+
 	//printf("j");
 	int h = floor(Random() * G.handCount[p]); 
 	//printf("k");
