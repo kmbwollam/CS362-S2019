@@ -210,11 +210,7 @@ protected void setUp() {
          boolean expected = true;
 
 
-         for (int testPartsIndexIndex = 0; testPartsIndexIndex <testPartsIndex.length; ++testPartsIndexIndex) {
-            int index = testPartsIndex[testPartsIndexIndex];
-
-
-         
+       
          for (int testPartsIndexIndex = 0; testPartsIndexIndex <testPartsIndex.length; ++testPartsIndexIndex) {
             int index = testPartsIndex[testPartsIndexIndex];
 
@@ -483,7 +479,7 @@ protected void setUp() {
 
          if (carry) {
             if (index < part.length - 1) {
-            	index--;
+            	index++;
 
                testPartsIndex[testPartsIndexIndex] = index;
                carry = false;
