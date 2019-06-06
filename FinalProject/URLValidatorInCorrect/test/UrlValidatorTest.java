@@ -53,6 +53,24 @@ public class UrlValidatorTest extends TestCase {
         isValidTester(urlVal, "http://www.google.gov", true);
         isValidTester(urlVal, "http://google\\ffaklg.com", false);
         isValidTester(urlVal, "http://www.google.cc", true);
+        isValidTester(urlVal, "http://65.173.211", true);
+        isValidTester(urlVal, "http://[2600::aaaa]:8080", true);
+        isValidTester(urlVal, "http://www.youtube.com", true);
+        isValidTester(urlVal, "http://www.baidu.com", true);
+        isValidTester(urlVal, "http://www.wikipedia.org", true);
+        isValidTester(urlVal, "http://www.sina.com.cn", true);
+        isValidTester(urlVal, "http://www.yahoo.co.jp", true);
+        isValidTester(urlVal, "http://www.google.de", true);
+        isValidTester(urlVal, "http://www.chinadaily.com.cn", true);
+        isValidTester(urlVal, "http://www.google.co.id", true);
+        isValidTester(urlVal, "http://www.doubleclick.net", true);
+        isValidTester(urlVal, "http://www.twitch.tv", true);
+        isValidTester(urlVal, "http://www.answers.yahoo.com", true);
+        isValidTester(urlVal, "http://www.google.com.ph", true);
+        isValidTester(urlVal, "http://www.accuweather.com", true);
+
+
+
     }
 
     public void testUnitPath() {
@@ -146,7 +164,6 @@ public class UrlValidatorTest extends TestCase {
    private final String[] schemes = {"http", "gopher", "g0-To+.",
            "not_valid" // TODO this will need to be dropped if the ctor validates schemes
    };
-
     ResultPair[] testScheme = {new ResultPair("http", true),
             new ResultPair("ftp", false),
             new ResultPair("httpd", false),
