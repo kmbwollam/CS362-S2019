@@ -31,6 +31,7 @@ public class UrlValidatorTest extends TestCase {
       super(testName);
    }
 
+
     public void testUnitScheme(){
         UrlValidator urlVal = new UrlValidator(schemes, UrlValidator.ALLOW_ALL_SCHEMES);
         // Test Schemes...keep same valid Authority test different schemes
@@ -131,6 +132,37 @@ public class UrlValidatorTest extends TestCase {
         isValidTester(urlVal, "http://www.example.com:12345", true);
         isValidTester(urlVal, "http://www.example.com:-1", false);
         isValidTester(urlVal, "http://www.example.com:65536", false);
+
+
+    public static final String randomUrlSeed = "abcdefghijklmnopqrstuvwxyz";
+
+    public static String randomUrl(int count){
+        StringBuilder builder = new StringBuilder();
+        while (count-- != 0){
+            int character = (int)(Math.random()*randomUrlSeed.length());
+            builder.append(randomUrlSeed.charAt(character));
+        }
+        return builder.toString();
+    }
+
+    public void testRandomScheme() {
+        UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_ALL_SCHEMES);
+        for (int i = 0; i < 100; i++) {
+            String testScheme = randomUrl((int) (Math.random() * 10 + 1));
+            String testUrl = testScheme + "://www.google.com";
+            isValidTester(urlValidator, testUrl, true);
+        }
+    }
+
+    public void testRandomPortAndScheme(){
+        UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_ALL_SCHEMES);
+        for (int i = 0; i < 100; i++){
+            String testScheme= randomUrl((int)(Math.random()*10+1));
+            int testPort = (int)(Math.random()*10000+1);
+            String testUrl = testScheme + "://www.google.com:" + testPort;
+            isValidTester(urlValidator,testUrl,true);
+        }
+
     }
 
    /**
@@ -164,6 +196,7 @@ public class UrlValidatorTest extends TestCase {
    private final String[] schemes = {"http", "gopher", "g0-To+.",
            "not_valid" // TODO this will need to be dropped if the ctor validates schemes
    };
+
     ResultPair[] testScheme = {new ResultPair("http", true),
             new ResultPair("ftp", false),
             new ResultPair("httpd", false),

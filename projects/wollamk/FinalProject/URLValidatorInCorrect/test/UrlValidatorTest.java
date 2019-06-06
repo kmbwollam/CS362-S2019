@@ -32,10 +32,9 @@ public class UrlValidatorTest extends TestCase {
    }
 
 
-
-   @Override
 protected void setUp() {
-      for (int index = 0; index < testPartsIndex.length - 1; index++) {
+      for (int index = 0; index < testPartsIndex.length; index++) {
+
          testPartsIndex[index] = 0;
       }
    }
@@ -50,6 +49,7 @@ protected void setUp() {
 
         testIsValid(testUrlPartsOptions, options);
    }
+
     // test valid scheme
     // random ports
     // random schemes
@@ -165,6 +165,7 @@ protected void setUp() {
         isValidTester(urlVal, "http://www.example.com:65536", false);
     }
 
+
    public void testIsValidScheme() {
       if (printStatus) {
          System.out.print("\n testIsValidScheme() ");
@@ -208,6 +209,12 @@ protected void setUp() {
           StringBuilder testBuffer = new StringBuilder();
          boolean expected = true;
 
+
+         for (int testPartsIndexIndex = 0; testPartsIndexIndex <testPartsIndex.length; ++testPartsIndexIndex) {
+            int index = testPartsIndex[testPartsIndexIndex];
+
+
+         
          for (int testPartsIndexIndex = 0; testPartsIndexIndex <testPartsIndex.length; ++testPartsIndexIndex) {
             int index = testPartsIndex[testPartsIndexIndex];
 
@@ -217,6 +224,7 @@ protected void setUp() {
          }
          String url = testBuffer.toString();
 
+           
          boolean result = urlVal.isValid(url); //removed negator !
          assertEquals(url, expected, result);
          if (printStatus) {
@@ -240,6 +248,7 @@ protected void setUp() {
          System.out.println();
       }
    }
+
     public boolean isValidTester(UrlValidator testVal, String customUrl, boolean expected) {
         if(testVal.isValid(customUrl) == expected) {
             System.out.println(customUrl + " test passed");
@@ -253,11 +262,13 @@ protected void setUp() {
 
 
 
+
    public void testValidator202() {
        String[] schemes = {"http","https"};
        UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.NO_FRAGMENTS);
        assertTrue(urlValidator.isValid("http://l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.org"));
 
+     
    }
 
    public void testValidator204() {
@@ -464,6 +475,7 @@ protected void setUp() {
       boolean carry = true;  //add 1 to lowest order part.
       boolean maxIndex = true;
       for (int testPartsIndexIndex = testPartsIndex.length -1; testPartsIndexIndex >= 0; --testPartsIndexIndex) {
+
          // for loop fixed to start at index testPartsIndex.length -1
     	 int index = testPartsIndex[testPartsIndexIndex];
          ResultPair[] part = (ResultPair[]) testParts[testPartsIndexIndex];
@@ -472,6 +484,7 @@ protected void setUp() {
          if (carry) {
             if (index < part.length - 1) {
             	index--;
+
                testPartsIndex[testPartsIndexIndex] = index;
                carry = false;
             } else {
@@ -609,7 +622,9 @@ protected void setUp() {
        assertFalse(validator.isValid("http://user:pa@ss@www.apache.org/path"));
    }
 
+
     public void testValidator382() {
+
        UrlValidator validator = new UrlValidator();
        assertTrue(validator.isValid("ftp://username:password@example.com:8042/over/there/index.dtb?type=animal&name=narwhal#nose"));
    }
